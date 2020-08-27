@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["errors/ig-signup-block.error"](_errors_ig_signup_block_error_.md) /
 

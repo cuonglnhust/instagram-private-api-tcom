@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["repositories/address-book.repository"](../modules/_repositories_address_book_repository_.md) / [AddressBookRepository](_repositories_address_book_repository_.addressbookrepository.md) /
 
@@ -29,7 +29,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -45,7 +45,7 @@ Name | Type |
 
 ▸ **acquireOwnerContacts**(`me`: object): *`Promise<StatusResponse>`*
 
-*Defined in [repositories/address-book.repository.ts:31](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/address-book.repository.ts#L31)*
+*Defined in [repositories/address-book.repository.ts:31](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/address-book.repository.ts#L31)*
 
 **Parameters:**
 
@@ -61,7 +61,7 @@ ___
 
 ▸ **link**(`contacts`: `Array<object>`, `module?`: [IgAppModule](../modules/_types_common_types_.md#igappmodule)): *`Promise<AddressBookRepositoryLinkResponseRootObject>`*
 
-*Defined in [repositories/address-book.repository.ts:7](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/address-book.repository.ts#L7)*
+*Defined in [repositories/address-book.repository.ts:7](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/address-book.repository.ts#L7)*
 
 **Parameters:**
 

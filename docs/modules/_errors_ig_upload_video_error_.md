@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["errors/ig-upload-video-error"](_errors_ig_upload_video_error_.md) /
 

@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["errors/ig-inactive-user.error"](_errors_ig_inactive_user_error_.md) /
 

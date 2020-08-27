@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/media.repository.configure.response"](../modules/_responses_media_repository_configure_response_.md) / [MediaRepositoryConfigureResponseCandidatesItem](_responses_media_repository_configure_response_.mediarepositoryconfigureresponsecandidatesitem.md) /
 
@@ -22,7 +22,7 @@
 
 • **height**: *number*
 
-*Defined in [responses/media.repository.configure.response.ts:42](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/media.repository.configure.response.ts#L42)*
+*Defined in [responses/media.repository.configure.response.ts:42](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/media.repository.configure.response.ts#L42)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **url**: *string*
 
-*Defined in [responses/media.repository.configure.response.ts:43](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/media.repository.configure.response.ts#L43)*
+*Defined in [responses/media.repository.configure.response.ts:43](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/media.repository.configure.response.ts#L43)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **width**: *number*
 
-*Defined in [responses/media.repository.configure.response.ts:41](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/media.repository.configure.response.ts#L41)*
+*Defined in [responses/media.repository.configure.response.ts:41](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/media.repository.configure.response.ts#L41)*

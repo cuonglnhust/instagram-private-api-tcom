@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/media.repository.configure.response"](../modules/_responses_media_repository_configure_response_.md) / [MediaRepositoryConfigureResponseFb_user_tags](_responses_media_repository_configure_response_.mediarepositoryconfigureresponsefb_user_tags.md) /
 
@@ -20,4 +20,4 @@
 
 • **in**: *any[]*
 
-*Defined in [responses/media.repository.configure.response.ts:63](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/media.repository.configure.response.ts#L63)*
+*Defined in [responses/media.repository.configure.response.ts:63](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/media.repository.configure.response.ts#L63)*

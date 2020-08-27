@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/account-followers.feed.response"](_responses_account_followers_feed_response_.md) /
 

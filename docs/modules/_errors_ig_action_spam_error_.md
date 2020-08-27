@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["errors/ig-action-spam.error"](_errors_ig_action_spam_error_.md) /
 

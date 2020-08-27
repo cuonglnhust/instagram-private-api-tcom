@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/user-story.feed.response"](../modules/_responses_user_story_feed_response_.md) / [UserStoryFeedResponseRootObject](_responses_user_story_feed_response_.userstoryfeedresponserootobject.md) /
 
@@ -22,7 +22,7 @@
 
 • **broadcast**: *null*
 
-*Defined in [responses/user-story.feed.response.ts:2](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L2)*
+*Defined in [responses/user-story.feed.response.ts:2](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L2)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **reel**: *[UserStoryFeedResponseReel](_responses_user_story_feed_response_.userstoryfeedresponsereel.md)*
 
-*Defined in [responses/user-story.feed.response.ts:3](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L3)*
+*Defined in [responses/user-story.feed.response.ts:3](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L3)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **status**: *string*
 
-*Defined in [responses/user-story.feed.response.ts:4](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L4)*
+*Defined in [responses/user-story.feed.response.ts:4](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L4)*

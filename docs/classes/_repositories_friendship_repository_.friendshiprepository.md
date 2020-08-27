@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["repositories/friendship.repository"](../modules/_repositories_friendship_repository_.md) / [FriendshipRepository](_repositories_friendship_repository_.friendshiprepository.md) /
 
@@ -36,7 +36,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -52,7 +52,7 @@ Name | Type |
 
 ▸ **approve**(`id`: string | number, `mediaIdAttribution?`: string): *`Promise<FriendshipRepositoryChangeResponseFriendship_status>`*
 
-*Defined in [repositories/friendship.repository.ts:41](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/friendship.repository.ts#L41)*
+*Defined in [repositories/friendship.repository.ts:41](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/friendship.repository.ts#L41)*
 
 **Parameters:**
 
@@ -69,7 +69,7 @@ ___
 
 ▸ **block**(`id`: string | number, `mediaIdAttribution?`: string): *`Promise<FriendshipRepositoryChangeResponseFriendship_status>`*
 
-*Defined in [repositories/friendship.repository.ts:25](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/friendship.repository.ts#L25)*
+*Defined in [repositories/friendship.repository.ts:25](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/friendship.repository.ts#L25)*
 
 **Parameters:**
 
@@ -86,7 +86,7 @@ ___
 
 ▸ **create**(`id`: string | number, `mediaIdAttribution?`: string): *`Promise<FriendshipRepositoryChangeResponseFriendship_status>`*
 
-*Defined in [repositories/friendship.repository.ts:33](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/friendship.repository.ts#L33)*
+*Defined in [repositories/friendship.repository.ts:33](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/friendship.repository.ts#L33)*
 
 **Parameters:**
 
@@ -103,7 +103,7 @@ ___
 
 ▸ **deny**(`id`: string | number, `mediaIdAttribution?`: string): *`Promise<FriendshipRepositoryChangeResponseFriendship_status>`*
 
-*Defined in [repositories/friendship.repository.ts:45](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/friendship.repository.ts#L45)*
+*Defined in [repositories/friendship.repository.ts:45](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/friendship.repository.ts#L45)*
 
 **Parameters:**
 
@@ -120,7 +120,7 @@ ___
 
 ▸ **destroy**(`id`: string | number, `mediaIdAttribution?`: string): *`Promise<FriendshipRepositoryChangeResponseFriendship_status>`*
 
-*Defined in [repositories/friendship.repository.ts:37](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/friendship.repository.ts#L37)*
+*Defined in [repositories/friendship.repository.ts:37](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/friendship.repository.ts#L37)*
 
 **Parameters:**
 
@@ -137,7 +137,7 @@ ___
 
 ▸ **removeFollower**(`id`: string | number): *`Promise<FriendshipRepositoryChangeResponseFriendship_status>`*
 
-*Defined in [repositories/friendship.repository.ts:49](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/friendship.repository.ts#L49)*
+*Defined in [repositories/friendship.repository.ts:49](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/friendship.repository.ts#L49)*
 
 **Parameters:**
 
@@ -153,7 +153,7 @@ ___
 
 ▸ **show**(`id`: string | number): *`Promise<FriendshipRepositoryShowResponseRootObject>`*
 
-*Defined in [repositories/friendship.repository.ts:5](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/friendship.repository.ts#L5)*
+*Defined in [repositories/friendship.repository.ts:5](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/friendship.repository.ts#L5)*
 
 **Parameters:**
 
@@ -169,7 +169,7 @@ ___
 
 ▸ **showMany**(`userIds`: string[] | number[]): *`Promise<any>`*
 
-*Defined in [repositories/friendship.repository.ts:12](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/friendship.repository.ts#L12)*
+*Defined in [repositories/friendship.repository.ts:12](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/friendship.repository.ts#L12)*
 
 **Parameters:**
 
@@ -185,7 +185,7 @@ ___
 
 ▸ **unblock**(`id`: string | number, `mediaIdAttribution?`: string): *`Promise<FriendshipRepositoryChangeResponseFriendship_status>`*
 
-*Defined in [repositories/friendship.repository.ts:29](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/friendship.repository.ts#L29)*
+*Defined in [repositories/friendship.repository.ts:29](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/friendship.repository.ts#L29)*
 
 **Parameters:**
 

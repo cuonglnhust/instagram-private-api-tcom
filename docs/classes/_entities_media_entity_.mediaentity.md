@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["entities/media.entity"](../modules/_entities_media_entity_.md) / [MediaEntity](_entities_media_entity_.mediaentity.md) /
 
@@ -28,7 +28,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -44,7 +44,7 @@ Name | Type |
 
 ▸ **oembed**(`url`: string): *`Promise<MediaEntityOembedResponse>`*
 
-*Defined in [entities/media.entity.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/media.entity.ts#L6)*
+*Defined in [entities/media.entity.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/media.entity.ts#L6)*
 
 **Parameters:**
 

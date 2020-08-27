@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["errors/ig-exact-user-not-found-error"](_errors_ig_exact_user_not_found_error_.md) /
 

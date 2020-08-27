@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/insights.service.post.response"](../modules/_responses_insights_service_post_response_.md) / [InsightsServicePostResponseImage](_responses_insights_service_post_response_.insightsservicepostresponseimage.md) /
 
@@ -21,7 +21,7 @@
 
 • **height**: *number*
 
-*Defined in [responses/insights.service.post.response.ts:96](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/insights.service.post.response.ts#L96)*
+*Defined in [responses/insights.service.post.response.ts:96](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/insights.service.post.response.ts#L96)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **width**: *number*
 
-*Defined in [responses/insights.service.post.response.ts:97](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/insights.service.post.response.ts#L97)*
+*Defined in [responses/insights.service.post.response.ts:97](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/insights.service.post.response.ts#L97)*

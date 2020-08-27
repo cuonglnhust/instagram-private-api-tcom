@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/location.repository.story.response"](../modules/_responses_location_repository_story_response_.md) / [LocationRepositoryStoryResponseCandidatesItem](_responses_location_repository_story_response_.locationrepositorystoryresponsecandidatesitem.md) /
 
@@ -23,7 +23,7 @@
 
 • **estimated_scans_sizes**? : *number[]*
 
-*Defined in [responses/location.repository.story.response.ts:103](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/location.repository.story.response.ts#L103)*
+*Defined in [responses/location.repository.story.response.ts:103](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/location.repository.story.response.ts#L103)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **height**: *number*
 
-*Defined in [responses/location.repository.story.response.ts:101](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/location.repository.story.response.ts#L101)*
+*Defined in [responses/location.repository.story.response.ts:101](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/location.repository.story.response.ts#L101)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **url**: *string*
 
-*Defined in [responses/location.repository.story.response.ts:102](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/location.repository.story.response.ts#L102)*
+*Defined in [responses/location.repository.story.response.ts:102](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/location.repository.story.response.ts#L102)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **width**: *number*
 
-*Defined in [responses/location.repository.story.response.ts:100](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/location.repository.story.response.ts#L100)*
+*Defined in [responses/location.repository.story.response.ts:100](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/location.repository.story.response.ts#L100)*

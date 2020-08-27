@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/insights.service.story.response"](../modules/_responses_insights_service_story_response_.md) / [InsightsServiceStoryResponseInstagram_actor](_responses_insights_service_story_response_.insightsservicestoryresponseinstagram_actor.md) /
 
@@ -21,7 +21,7 @@
 
 • **id**: *string*
 
-*Defined in [responses/insights.service.story.response.ts:24](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/insights.service.story.response.ts#L24)*
+*Defined in [responses/insights.service.story.response.ts:24](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/insights.service.story.response.ts#L24)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **instagram_actor_id**: *string*
 
-*Defined in [responses/insights.service.story.response.ts:23](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/insights.service.story.response.ts#L23)*
+*Defined in [responses/insights.service.story.response.ts:23](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/insights.service.story.response.ts#L23)*

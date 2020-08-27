@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/tag.feed.response"](../modules/_responses_tag_feed_response_.md) / [TagFeedResponseFriendship_status](_responses_tag_feed_response_.tagfeedresponsefriendship_status.md) /
 
@@ -22,7 +22,7 @@
 
 • **following**: *boolean*
 
-*Defined in [responses/tag.feed.response.ts:96](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tag.feed.response.ts#L96)*
+*Defined in [responses/tag.feed.response.ts:96](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tag.feed.response.ts#L96)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **is_bestie**: *boolean*
 
-*Defined in [responses/tag.feed.response.ts:98](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tag.feed.response.ts#L98)*
+*Defined in [responses/tag.feed.response.ts:98](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tag.feed.response.ts#L98)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **outgoing_request**: *boolean*
 
-*Defined in [responses/tag.feed.response.ts:97](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tag.feed.response.ts#L97)*
+*Defined in [responses/tag.feed.response.ts:97](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tag.feed.response.ts#L97)*

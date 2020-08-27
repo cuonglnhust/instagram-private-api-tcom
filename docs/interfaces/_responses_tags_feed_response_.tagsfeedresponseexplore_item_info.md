@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/tags.feed.response"](../modules/_responses_tags_feed_response_.md) / [TagsFeedResponseExplore_item_info](_responses_tags_feed_response_.tagsfeedresponseexplore_item_info.md) /
 
@@ -23,7 +23,7 @@
 
 • **aspect_ratio**: *number*
 
-*Defined in [responses/tags.feed.response.ts:166](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tags.feed.response.ts#L166)*
+*Defined in [responses/tags.feed.response.ts:166](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tags.feed.response.ts#L166)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **autoplay**: *boolean*
 
-*Defined in [responses/tags.feed.response.ts:167](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tags.feed.response.ts#L167)*
+*Defined in [responses/tags.feed.response.ts:167](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tags.feed.response.ts#L167)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **num_columns**: *number*
 
-*Defined in [responses/tags.feed.response.ts:164](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tags.feed.response.ts#L164)*
+*Defined in [responses/tags.feed.response.ts:164](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tags.feed.response.ts#L164)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **total_num_columns**: *number*
 
-*Defined in [responses/tags.feed.response.ts:165](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tags.feed.response.ts#L165)*
+*Defined in [responses/tags.feed.response.ts:165](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tags.feed.response.ts#L165)*

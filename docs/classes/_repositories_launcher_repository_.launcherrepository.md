@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["repositories/launcher.repository"](../modules/_repositories_launcher_repository_.md) / [LauncherRepository](_repositories_launcher_repository_.launcherrepository.md) /
 
@@ -30,7 +30,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -46,7 +46,7 @@ Name | Type |
 
 ▸ **postLoginSync**(): *`Promise<any>`*
 
-*Defined in [repositories/launcher.repository.ts:11](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/launcher.repository.ts#L11)*
+*Defined in [repositories/launcher.repository.ts:11](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/launcher.repository.ts#L11)*
 
 **Returns:** *`Promise<any>`*
 
@@ -56,7 +56,7 @@ ___
 
 ▸ **preLoginSync**(): *`Promise<any>`*
 
-*Defined in [repositories/launcher.repository.ts:4](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/launcher.repository.ts#L4)*
+*Defined in [repositories/launcher.repository.ts:4](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/launcher.repository.ts#L4)*
 
 **Returns:** *`Promise<any>`*
 
@@ -66,7 +66,7 @@ ___
 
 ▸ **sync**(`data`: `Object`): *`Promise<any>`*
 
-*Defined in [repositories/launcher.repository.ts:22](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/launcher.repository.ts#L22)*
+*Defined in [repositories/launcher.repository.ts:22](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/launcher.repository.ts#L22)*
 
 **Parameters:**
 

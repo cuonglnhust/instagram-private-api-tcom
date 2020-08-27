@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["types/posting.video.options"](../modules/_types_posting_video_options_.md) / [PostingStoryVideoOptions](_types_posting_video_options_.postingstoryvideooptions.md) /
 
@@ -43,7 +43,7 @@
 
 *Inherited from [PostingStoryOptions](_types_posting_options_.postingstoryoptions.md).[caption](_types_posting_options_.postingstoryoptions.md#optional-caption)*
 
-*Defined in [types/posting.options.ts:28](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.options.ts#L28)*
+*Defined in [types/posting.options.ts:28](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.options.ts#L28)*
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 *Inherited from [PostingStoryOptions](_types_posting_options_.postingstoryoptions.md).[chat](_types_posting_options_.postingstoryoptions.md#optional-chat)*
 
-*Defined in [types/posting.options.ts:44](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.options.ts#L44)*
+*Defined in [types/posting.options.ts:44](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.options.ts#L44)*
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 *Inherited from [PostingStoryOptions](_types_posting_options_.postingstoryoptions.md).[countdown](_types_posting_options_.postingstoryoptions.md#optional-countdown)*
 
-*Defined in [types/posting.options.ts:42](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.options.ts#L42)*
+*Defined in [types/posting.options.ts:42](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.options.ts#L42)*
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 • **coverImage**: *`Buffer`*
 
-*Defined in [types/posting.video.options.ts:14](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.video.options.ts#L14)*
+*Defined in [types/posting.video.options.ts:14](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.video.options.ts#L14)*
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 *Inherited from [PostingStoryOptions](_types_posting_options_.postingstoryoptions.md).[hashtags](_types_posting_options_.postingstoryoptions.md#optional-hashtags)*
 
-*Defined in [types/posting.options.ts:37](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.options.ts#L37)*
+*Defined in [types/posting.options.ts:37](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.options.ts#L37)*
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 *Inherited from [PostingStoryOptions](_types_posting_options_.postingstoryoptions.md).[link](_types_posting_options_.postingstoryoptions.md#optional-link)*
 
-*Defined in [types/posting.options.ts:46](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.options.ts#L46)*
+*Defined in [types/posting.options.ts:46](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.options.ts#L46)*
 
 ___
 
@@ -101,7 +101,7 @@ ___
 
 *Inherited from [PostingStoryOptions](_types_posting_options_.postingstoryoptions.md).[location](_types_posting_options_.postingstoryoptions.md#optional-location)*
 
-*Defined in [types/posting.options.ts:36](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.options.ts#L36)*
+*Defined in [types/posting.options.ts:36](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.options.ts#L36)*
 
 ___
 
@@ -111,7 +111,7 @@ ___
 
 *Inherited from [PostingStoryOptions](_types_posting_options_.postingstoryoptions.md).[media](_types_posting_options_.postingstoryoptions.md#optional-media)*
 
-*Defined in [types/posting.options.ts:43](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.options.ts#L43)*
+*Defined in [types/posting.options.ts:43](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.options.ts#L43)*
 
 ___
 
@@ -121,7 +121,7 @@ ___
 
 *Inherited from [PostingStoryOptions](_types_posting_options_.postingstoryoptions.md).[mentions](_types_posting_options_.postingstoryoptions.md#optional-mentions)*
 
-*Defined in [types/posting.options.ts:38](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.options.ts#L38)*
+*Defined in [types/posting.options.ts:38](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.options.ts#L38)*
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 *Inherited from [PostingStoryOptions](_types_posting_options_.postingstoryoptions.md).[poll](_types_posting_options_.postingstoryoptions.md#optional-poll)*
 
-*Defined in [types/posting.options.ts:39](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.options.ts#L39)*
+*Defined in [types/posting.options.ts:39](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.options.ts#L39)*
 
 ___
 
@@ -141,7 +141,7 @@ ___
 
 *Inherited from [PostingStoryOptions](_types_posting_options_.postingstoryoptions.md).[question](_types_posting_options_.postingstoryoptions.md#optional-question)*
 
-*Defined in [types/posting.options.ts:41](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.options.ts#L41)*
+*Defined in [types/posting.options.ts:41](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.options.ts#L41)*
 
 ___
 
@@ -151,7 +151,7 @@ ___
 
 *Inherited from [PostingStoryOptions](_types_posting_options_.postingstoryoptions.md).[quiz](_types_posting_options_.postingstoryoptions.md#optional-quiz)*
 
-*Defined in [types/posting.options.ts:45](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.options.ts#L45)*
+*Defined in [types/posting.options.ts:45](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.options.ts#L45)*
 
 ___
 
@@ -161,7 +161,7 @@ ___
 
 *Inherited from [PostingStoryOptions](_types_posting_options_.postingstoryoptions.md).[recipientUsers](_types_posting_options_.postingstoryoptions.md#optional-recipientusers)*
 
-*Defined in [types/posting.options.ts:31](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.options.ts#L31)*
+*Defined in [types/posting.options.ts:31](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.options.ts#L31)*
 
 ___
 
@@ -171,7 +171,7 @@ ___
 
 *Inherited from [PostingStoryOptions](_types_posting_options_.postingstoryoptions.md).[replyType](_types_posting_options_.postingstoryoptions.md#optional-replytype)*
 
-*Defined in [types/posting.options.ts:33](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.options.ts#L33)*
+*Defined in [types/posting.options.ts:33](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.options.ts#L33)*
 
 ___
 
@@ -181,7 +181,7 @@ ___
 
 *Inherited from [PostingStoryOptions](_types_posting_options_.postingstoryoptions.md).[slider](_types_posting_options_.postingstoryoptions.md#optional-slider)*
 
-*Defined in [types/posting.options.ts:40](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.options.ts#L40)*
+*Defined in [types/posting.options.ts:40](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.options.ts#L40)*
 
 ___
 
@@ -191,7 +191,7 @@ ___
 
 *Inherited from [PostingStoryOptions](_types_posting_options_.postingstoryoptions.md).[threadIds](_types_posting_options_.postingstoryoptions.md#optional-threadids)*
 
-*Defined in [types/posting.options.ts:30](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.options.ts#L30)*
+*Defined in [types/posting.options.ts:30](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.options.ts#L30)*
 
 ___
 
@@ -201,7 +201,7 @@ ___
 
 *Inherited from [PostingStoryOptions](_types_posting_options_.postingstoryoptions.md).[toBesties](_types_posting_options_.postingstoryoptions.md#optional-tobesties)*
 
-*Defined in [types/posting.options.ts:29](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.options.ts#L29)*
+*Defined in [types/posting.options.ts:29](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.options.ts#L29)*
 
 ___
 
@@ -209,7 +209,7 @@ ___
 
 • **transcodeDelay**? : *number*
 
-*Defined in [types/posting.video.options.ts:15](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.video.options.ts#L15)*
+*Defined in [types/posting.video.options.ts:15](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.video.options.ts#L15)*
 
 ___
 
@@ -217,7 +217,7 @@ ___
 
 • **video**: *`Buffer`*
 
-*Defined in [types/posting.video.options.ts:13](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.video.options.ts#L13)*
+*Defined in [types/posting.video.options.ts:13](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.video.options.ts#L13)*
 
 ___
 
@@ -227,4 +227,4 @@ ___
 
 *Inherited from [PostingStoryOptions](_types_posting_options_.postingstoryoptions.md).[viewMode](_types_posting_options_.postingstoryoptions.md#optional-viewmode)*
 
-*Defined in [types/posting.options.ts:32](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.options.ts#L32)*
+*Defined in [types/posting.options.ts:32](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.options.ts#L32)*

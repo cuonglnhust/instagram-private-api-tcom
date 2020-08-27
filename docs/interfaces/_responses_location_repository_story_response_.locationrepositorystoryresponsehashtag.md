@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/location.repository.story.response"](../modules/_responses_location_repository_story_response_.md) / [LocationRepositoryStoryResponseHashtag](_responses_location_repository_story_response_.locationrepositorystoryresponsehashtag.md) /
 
@@ -21,7 +21,7 @@
 
 • **id**: *string*
 
-*Defined in [responses/location.repository.story.response.ts:150](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/location.repository.story.response.ts#L150)*
+*Defined in [responses/location.repository.story.response.ts:150](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/location.repository.story.response.ts#L150)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **name**: *string*
 
-*Defined in [responses/location.repository.story.response.ts:149](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/location.repository.story.response.ts#L149)*
+*Defined in [responses/location.repository.story.response.ts:149](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/location.repository.story.response.ts#L149)*

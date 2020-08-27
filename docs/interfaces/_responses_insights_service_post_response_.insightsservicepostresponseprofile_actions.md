@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/insights.service.post.response"](../modules/_responses_insights_service_post_response_.md) / [InsightsServicePostResponseProfile_actions](_responses_insights_service_post_response_.insightsservicepostresponseprofile_actions.md) /
 
@@ -20,4 +20,4 @@
 
 • **actions**: *[InsightsServicePostResponseActions](_responses_insights_service_post_response_.insightsservicepostresponseactions.md)*
 
-*Defined in [responses/insights.service.post.response.ts:63](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/insights.service.post.response.ts#L63)*
+*Defined in [responses/insights.service.post.response.ts:63](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/insights.service.post.response.ts#L63)*

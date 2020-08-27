@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["types/timeline-feed.types"](../modules/_types_timeline_feed_types_.md) / [TimelineFeedsOptions](_types_timeline_feed_types_.timelinefeedsoptions.md) /
 
@@ -23,7 +23,7 @@
 
 • **latestStoryPk**? : *string | number*
 
-*Defined in [types/timeline-feed.types.ts:7](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/timeline-feed.types.ts#L7)*
+*Defined in [types/timeline-feed.types.ts:7](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/timeline-feed.types.ts#L7)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **pushDisabled**? : *boolean*
 
-*Defined in [types/timeline-feed.types.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/timeline-feed.types.ts#L6)*
+*Defined in [types/timeline-feed.types.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/timeline-feed.types.ts#L6)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **reason**? : *[TimelineFeedReason](../modules/_types_timeline_feed_types_.md#timelinefeedreason)*
 
-*Defined in [types/timeline-feed.types.ts:4](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/timeline-feed.types.ts#L4)*
+*Defined in [types/timeline-feed.types.ts:4](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/timeline-feed.types.ts#L4)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **recoveredFromCrash**? : *string*
 
-*Defined in [types/timeline-feed.types.ts:5](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/timeline-feed.types.ts#L5)*
+*Defined in [types/timeline-feed.types.ts:5](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/timeline-feed.types.ts#L5)*

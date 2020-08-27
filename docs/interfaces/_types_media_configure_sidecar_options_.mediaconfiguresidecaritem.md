@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["types/media.configure-sidecar.options"](../modules/_types_media_configure_sidecar_options_.md) / [MediaConfigureSidecarItem](_types_media_configure_sidecar_options_.mediaconfiguresidecaritem.md) /
 
@@ -31,7 +31,7 @@
 
 • **caption**? : *null*
 
-*Defined in [types/media.configure-sidecar.options.ts:27](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-sidecar.options.ts#L27)*
+*Defined in [types/media.configure-sidecar.options.ts:27](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-sidecar.options.ts#L27)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **device**? : *object | string*
 
-*Defined in [types/media.configure-sidecar.options.ts:32](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-sidecar.options.ts#L32)*
+*Defined in [types/media.configure-sidecar.options.ts:32](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-sidecar.options.ts#L32)*
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 • **edits**? : *object | string*
 
-*Defined in [types/media.configure-sidecar.options.ts:31](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-sidecar.options.ts#L31)*
+*Defined in [types/media.configure-sidecar.options.ts:31](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-sidecar.options.ts#L31)*
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 • **extra**? : *object | string*
 
-*Defined in [types/media.configure-sidecar.options.ts:30](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-sidecar.options.ts#L30)*
+*Defined in [types/media.configure-sidecar.options.ts:30](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-sidecar.options.ts#L30)*
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 • **height**: *number*
 
-*Defined in [types/media.configure-sidecar.options.ts:42](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-sidecar.options.ts#L42)*
+*Defined in [types/media.configure-sidecar.options.ts:42](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-sidecar.options.ts#L42)*
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 • **source_type**? : *string*
 
-*Defined in [types/media.configure-sidecar.options.ts:28](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-sidecar.options.ts#L28)*
+*Defined in [types/media.configure-sidecar.options.ts:28](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-sidecar.options.ts#L28)*
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 • **timezone_offset**? : *string*
 
-*Defined in [types/media.configure-sidecar.options.ts:26](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-sidecar.options.ts#L26)*
+*Defined in [types/media.configure-sidecar.options.ts:26](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-sidecar.options.ts#L26)*
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 • **upload_id**: *string*
 
-*Defined in [types/media.configure-sidecar.options.ts:25](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-sidecar.options.ts#L25)*
+*Defined in [types/media.configure-sidecar.options.ts:25](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-sidecar.options.ts#L25)*
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 • **usertags**? : *[PostingUsertags](_types_posting_options_.postingusertags.md) | string*
 
-*Defined in [types/media.configure-sidecar.options.ts:29](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-sidecar.options.ts#L29)*
+*Defined in [types/media.configure-sidecar.options.ts:29](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-sidecar.options.ts#L29)*
 
 ___
 
@@ -103,4 +103,4 @@ ___
 
 • **width**: *number*
 
-*Defined in [types/media.configure-sidecar.options.ts:41](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-sidecar.options.ts#L41)*
+*Defined in [types/media.configure-sidecar.options.ts:41](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-sidecar.options.ts#L41)*

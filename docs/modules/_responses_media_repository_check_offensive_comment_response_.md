@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/media.repository.check-offensive-comment.response"](_responses_media_repository_check_offensive_comment_response_.md) /
 

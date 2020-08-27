@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["errors/ig-cookie-not-found.error"](_errors_ig_cookie_not_found_error_.md) /
 

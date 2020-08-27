@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/posts-insights.feed.response"](../modules/_responses_posts_insights_feed_response_.md) / [PostsInsightsFeedResponseTop_posts](_responses_posts_insights_feed_response_.postsinsightsfeedresponsetop_posts.md) /
 
@@ -21,7 +21,7 @@
 
 • **edges**: *[PostsInsightsFeedResponseEdgesItem](_responses_posts_insights_feed_response_.postsinsightsfeedresponseedgesitem.md)[]*
 
-*Defined in [responses/posts-insights.feed.response.ts:18](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/posts-insights.feed.response.ts#L18)*
+*Defined in [responses/posts-insights.feed.response.ts:18](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/posts-insights.feed.response.ts#L18)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **page_info**: *[PostsInsightsFeedResponsePage_info](_responses_posts_insights_feed_response_.postsinsightsfeedresponsepage_info.md)*
 
-*Defined in [responses/posts-insights.feed.response.ts:19](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/posts-insights.feed.response.ts#L19)*
+*Defined in [responses/posts-insights.feed.response.ts:19](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/posts-insights.feed.response.ts#L19)*

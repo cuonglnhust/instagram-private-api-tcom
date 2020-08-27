@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["repositories/media.repository"](../modules/_repositories_media_repository_.md) / [MediaRepository](_repositories_media_repository_.mediarepository.md) /
 
@@ -46,7 +46,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -62,7 +62,7 @@ Name | Type |
 
 ▸ **blocked**(): *`Promise<string[]>`*
 
-*Defined in [repositories/media.repository.ts:204](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L204)*
+*Defined in [repositories/media.repository.ts:204](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L204)*
 
 **Returns:** *`Promise<string[]>`*
 
@@ -72,7 +72,7 @@ ___
 
 ▸ **checkOffensiveComment**(`commentText`: string, `mediaId?`: string): *`Promise<MediaRepositoryCheckOffensiveCommentResponseRootObject>`*
 
-*Defined in [repositories/media.repository.ts:135](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L135)*
+*Defined in [repositories/media.repository.ts:135](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L135)*
 
 Normally, this is requested before each comment is sent to ensure it isn't spam or hateful
 
@@ -91,7 +91,7 @@ ___
 
 ▸ **comment**(`__namedParameters`: object): *`Promise<MediaRepositoryCommentResponseComment>`*
 
-*Defined in [repositories/media.repository.ts:167](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L167)*
+*Defined in [repositories/media.repository.ts:167](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L167)*
 
 **Parameters:**
 
@@ -107,7 +107,7 @@ ___
 
 ▸ **commentsBulkDelete**(`mediaId`: string, `commentIds`: string[]): *`Promise<StatusResponse>`*
 
-*Defined in [repositories/media.repository.ts:153](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L153)*
+*Defined in [repositories/media.repository.ts:153](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L153)*
 
 **Parameters:**
 
@@ -124,7 +124,7 @@ ___
 
 ▸ **configure**(`options`: [MediaConfigureTimelineOptions](../interfaces/_types_media_configure_options_.mediaconfiguretimelineoptions.md)): *`Promise<MediaRepositoryConfigureResponseRootObject>`*
 
-*Defined in [repositories/media.repository.ts:274](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L274)*
+*Defined in [repositories/media.repository.ts:274](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L274)*
 
 Configures an upload (indicated by {upload_id} in the options) for the timeline
 
@@ -142,7 +142,7 @@ ___
 
 ▸ **configureSidecar**(`options`: [MediaConfigureSidecarOptions](../interfaces/_types_media_configure_sidecar_options_.mediaconfiguresidecaroptions.md)): *`Promise<any>`*
 
-*Defined in [repositories/media.repository.ts:478](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L478)*
+*Defined in [repositories/media.repository.ts:478](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L478)*
 
 **Parameters:**
 
@@ -158,7 +158,7 @@ ___
 
 ▸ **configureToStory**(`options`: [MediaConfigureStoryPhotoOptions](../interfaces/_types_media_configure_story_options_.mediaconfigurestoryphotooptions.md)): *`Promise<any>`*
 
-*Defined in [repositories/media.repository.ts:392](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L392)*
+*Defined in [repositories/media.repository.ts:392](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L392)*
 
 **Parameters:**
 
@@ -174,7 +174,7 @@ ___
 
 ▸ **configureToStoryVideo**(`options`: [MediaConfigureStoryVideoOptions](../interfaces/_types_media_configure_story_options_.mediaconfigurestoryvideooptions.md)): *`Promise<any>`*
 
-*Defined in [repositories/media.repository.ts:429](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L429)*
+*Defined in [repositories/media.repository.ts:429](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L429)*
 
 **Parameters:**
 
@@ -190,7 +190,7 @@ ___
 
 ▸ **configureVideo**(`options`: [MediaConfigureTimelineVideoOptions](../interfaces/_types_media_configure_video_options_.mediaconfiguretimelinevideooptions.md)): *`Promise<MediaRepositoryConfigureResponseRootObject>`*
 
-*Defined in [repositories/media.repository.ts:320](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L320)*
+*Defined in [repositories/media.repository.ts:320](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L320)*
 
 **Parameters:**
 
@@ -206,7 +206,7 @@ ___
 
 ▸ **delete**(`__namedParameters`: object): *`Promise<any>`*
 
-*Defined in [repositories/media.repository.ts:69](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L69)*
+*Defined in [repositories/media.repository.ts:69](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L69)*
 
 **Parameters:**
 
@@ -222,7 +222,7 @@ ___
 
 ▸ **editMedia**(`__namedParameters`: object): *`Promise<MediaEditResponseRootObject>`*
 
-*Defined in [repositories/media.repository.ts:47](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L47)*
+*Defined in [repositories/media.repository.ts:47](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L47)*
 
 **Parameters:**
 
@@ -238,7 +238,7 @@ ___
 
 ▸ **info**(`mediaId`: string): *`Promise<MediaInfoResponseRootObject>`*
 
-*Defined in [repositories/media.repository.ts:32](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L32)*
+*Defined in [repositories/media.repository.ts:32](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L32)*
 
 **Parameters:**
 
@@ -254,7 +254,7 @@ ___
 
 ▸ **like**(`options`: [LikeRequestOptions](../modules/_types_media_like_options_.md#likerequestoptions)): *`Promise<any>`*
 
-*Defined in [repositories/media.repository.ts:116](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L116)*
+*Defined in [repositories/media.repository.ts:116](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L116)*
 
 **Parameters:**
 
@@ -270,7 +270,7 @@ ___
 
 ▸ **likers**(`id`: string): *`Promise<MediaRepositoryLikersResponseRootObject>`*
 
-*Defined in [repositories/media.repository.ts:197](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L197)*
+*Defined in [repositories/media.repository.ts:197](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L197)*
 
 **Parameters:**
 
@@ -286,7 +286,7 @@ ___
 
 ▸ **save**(`mediaId`: string): *`Promise<any>`*
 
-*Defined in [repositories/media.repository.ts:580](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L580)*
+*Defined in [repositories/media.repository.ts:580](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L580)*
 
 **Parameters:**
 
@@ -302,7 +302,7 @@ ___
 
 ▸ **seen**(`reels`: object, `module`: [IgAppModule](../modules/_types_common_types_.md#igappmodule)): *`Promise<StatusResponse>`*
 
-*Defined in [repositories/media.repository.ts:548](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L548)*
+*Defined in [repositories/media.repository.ts:548](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L548)*
 
 **Parameters:**
 
@@ -319,7 +319,7 @@ ___
 
 ▸ **unlike**(`options`: [UnlikeRequestOptions](../modules/_types_media_like_options_.md#unlikerequestoptions)): *`Promise<any>`*
 
-*Defined in [repositories/media.repository.ts:123](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L123)*
+*Defined in [repositories/media.repository.ts:123](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L123)*
 
 **Parameters:**
 
@@ -335,7 +335,7 @@ ___
 
 ▸ **unsave**(`mediaId`: string): *`Promise<any>`*
 
-*Defined in [repositories/media.repository.ts:588](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L588)*
+*Defined in [repositories/media.repository.ts:588](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L588)*
 
 **Parameters:**
 
@@ -351,7 +351,7 @@ ___
 
 ▸ **uploadFinish**(`options`: object): *`Promise<any>`*
 
-*Defined in [repositories/media.repository.ts:211](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/media.repository.ts#L211)*
+*Defined in [repositories/media.repository.ts:211](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/media.repository.ts#L211)*
 
 **Parameters:**
 

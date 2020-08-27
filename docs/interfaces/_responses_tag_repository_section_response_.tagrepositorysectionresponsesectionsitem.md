@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/tag.repository.section.response"](../modules/_responses_tag_repository_section_response_.md) / [TagRepositorySectionResponsesectionsItem](_responses_tag_repository_section_response_.tagrepositorysectionresponsesectionsitem.md) /
 
@@ -23,7 +23,7 @@
 
 • **explore_item_info**: *string[]*
 
-*Defined in [responses/tag.repository.section.response.ts:14](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tag.repository.section.response.ts#L14)*
+*Defined in [responses/tag.repository.section.response.ts:14](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tag.repository.section.response.ts#L14)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **feed_type**: *string*
 
-*Defined in [responses/tag.repository.section.response.ts:13](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tag.repository.section.response.ts#L13)*
+*Defined in [responses/tag.repository.section.response.ts:13](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tag.repository.section.response.ts#L13)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **layout_content**: *string[]*
 
-*Defined in [responses/tag.repository.section.response.ts:12](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tag.repository.section.response.ts#L12)*
+*Defined in [responses/tag.repository.section.response.ts:12](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tag.repository.section.response.ts#L12)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **layout_type**: *string*
 
-*Defined in [responses/tag.repository.section.response.ts:11](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tag.repository.section.response.ts#L11)*
+*Defined in [responses/tag.repository.section.response.ts:11](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tag.repository.section.response.ts#L11)*

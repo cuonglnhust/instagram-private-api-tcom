@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/timeline.feed.response"](../modules/_responses_timeline_feed_response_.md) / [TimelineFeedResponseFriendship_status](_responses_timeline_feed_response_.timelinefeedresponsefriendship_status.md) /
 
@@ -23,7 +23,7 @@
 
 • **following**: *boolean*
 
-*Defined in [responses/timeline.feed.response.ts:129](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/timeline.feed.response.ts#L129)*
+*Defined in [responses/timeline.feed.response.ts:129](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/timeline.feed.response.ts#L129)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **is_bestie**: *boolean*
 
-*Defined in [responses/timeline.feed.response.ts:132](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/timeline.feed.response.ts#L132)*
+*Defined in [responses/timeline.feed.response.ts:132](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/timeline.feed.response.ts#L132)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **is_muting_reel**: *boolean*
 
-*Defined in [responses/timeline.feed.response.ts:131](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/timeline.feed.response.ts#L131)*
+*Defined in [responses/timeline.feed.response.ts:131](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/timeline.feed.response.ts#L131)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **outgoing_request**: *boolean*
 
-*Defined in [responses/timeline.feed.response.ts:130](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/timeline.feed.response.ts#L130)*
+*Defined in [responses/timeline.feed.response.ts:130](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/timeline.feed.response.ts#L130)*

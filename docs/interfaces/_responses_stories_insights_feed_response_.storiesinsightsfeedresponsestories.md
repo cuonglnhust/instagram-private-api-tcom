@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/stories-insights.feed.response"](../modules/_responses_stories_insights_feed_response_.md) / [StoriesInsightsFeedResponseStories](_responses_stories_insights_feed_response_.storiesinsightsfeedresponsestories.md) /
 
@@ -21,7 +21,7 @@
 
 • **edges**: *[StoriesInsightsFeedResponseEdgesItem](_responses_stories_insights_feed_response_.storiesinsightsfeedresponseedgesitem.md)[]*
 
-*Defined in [responses/stories-insights.feed.response.ts:18](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/stories-insights.feed.response.ts#L18)*
+*Defined in [responses/stories-insights.feed.response.ts:18](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/stories-insights.feed.response.ts#L18)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **page_info**: *[StoriesInsightsFeedResponsePage_info](_responses_stories_insights_feed_response_.storiesinsightsfeedresponsepage_info.md)*
 
-*Defined in [responses/stories-insights.feed.response.ts:19](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/stories-insights.feed.response.ts#L19)*
+*Defined in [responses/stories-insights.feed.response.ts:19](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/stories-insights.feed.response.ts#L19)*

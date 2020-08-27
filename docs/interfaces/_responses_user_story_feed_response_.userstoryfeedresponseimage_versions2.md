@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/user-story.feed.response"](../modules/_responses_user_story_feed_response_.md) / [UserStoryFeedResponseImage_versions2](_responses_user_story_feed_response_.userstoryfeedresponseimage_versions2.md) /
 
@@ -20,4 +20,4 @@
 
 • **candidates**: *[UserStoryFeedResponseCandidatesItem](_responses_user_story_feed_response_.userstoryfeedresponsecandidatesitem.md)[]*
 
-*Defined in [responses/user-story.feed.response.ts:83](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L83)*
+*Defined in [responses/user-story.feed.response.ts:83](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L83)*

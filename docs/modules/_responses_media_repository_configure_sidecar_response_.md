@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/media.repository.configure-sidecar.response"](_responses_media_repository_configure_sidecar_response_.md) /
 

@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["repositories/restrict-action.repository"](../modules/_repositories_restrict_action_repository_.md) / [RestrictActionRepository](_repositories_restrict_action_repository_.restrictactionrepository.md) /
 
@@ -29,7 +29,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -45,7 +45,7 @@ Name | Type |
 
 ▸ **restrict**(`targetUserId`: number | string): *`Promise<RestrictActionRepositoryRestrictResponseRootObject>`*
 
-*Defined in [repositories/restrict-action.repository.ts:5](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/restrict-action.repository.ts#L5)*
+*Defined in [repositories/restrict-action.repository.ts:5](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/restrict-action.repository.ts#L5)*
 
 **Parameters:**
 
@@ -61,7 +61,7 @@ ___
 
 ▸ **unrestrict**(`targetUserId`: number | string): *`Promise<RestrictActionRepositoryRestrictResponseRootObject>`*
 
-*Defined in [repositories/restrict-action.repository.ts:18](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/restrict-action.repository.ts#L18)*
+*Defined in [repositories/restrict-action.repository.ts:18](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/restrict-action.repository.ts#L18)*
 
 **Parameters:**
 

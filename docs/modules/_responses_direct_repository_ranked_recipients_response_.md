@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/direct.repository.ranked-recipients.response"](_responses_direct_repository_ranked_recipients_response_.md) /
 

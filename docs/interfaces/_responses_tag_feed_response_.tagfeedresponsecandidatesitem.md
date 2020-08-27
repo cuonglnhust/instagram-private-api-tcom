@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/tag.feed.response"](../modules/_responses_tag_feed_response_.md) / [TagFeedResponseCandidatesItem](_responses_tag_feed_response_.tagfeedresponsecandidatesitem.md) /
 
@@ -22,7 +22,7 @@
 
 • **height**: *number*
 
-*Defined in [responses/tag.feed.response.ts:81](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tag.feed.response.ts#L81)*
+*Defined in [responses/tag.feed.response.ts:81](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tag.feed.response.ts#L81)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **url**: *string*
 
-*Defined in [responses/tag.feed.response.ts:82](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tag.feed.response.ts#L82)*
+*Defined in [responses/tag.feed.response.ts:82](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tag.feed.response.ts#L82)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **width**: *number*
 
-*Defined in [responses/tag.feed.response.ts:80](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tag.feed.response.ts#L80)*
+*Defined in [responses/tag.feed.response.ts:80](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tag.feed.response.ts#L80)*

@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["repositories/location.repository"](../modules/_repositories_location_repository_.md) / [LocationRepository](_repositories_location_repository_.locationrepository.md) /
 
@@ -29,7 +29,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -45,7 +45,7 @@ Name | Type |
 
 ▸ **info**(`id`: number | string): *`Promise<LocationRepositoryInfoResponseRootObject>`*
 
-*Defined in [repositories/location.repository.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/location.repository.ts#L6)*
+*Defined in [repositories/location.repository.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/location.repository.ts#L6)*
 
 **Parameters:**
 
@@ -61,7 +61,7 @@ ___
 
 ▸ **story**(`id`: number | string): *`Promise<LocationRepositoryStoryResponseRootObject>`*
 
-*Defined in [repositories/location.repository.ts:14](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/location.repository.ts#L14)*
+*Defined in [repositories/location.repository.ts:14](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/location.repository.ts#L14)*
 
 **Parameters:**
 

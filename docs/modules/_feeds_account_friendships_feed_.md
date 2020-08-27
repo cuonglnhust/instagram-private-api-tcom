@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["feeds/account-friendships.feed"](_feeds_account_friendships_feed_.md) /
 

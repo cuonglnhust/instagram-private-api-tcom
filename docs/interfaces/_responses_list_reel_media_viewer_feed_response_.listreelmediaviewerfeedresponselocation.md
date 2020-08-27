@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/list-reel-media-viewer.feed.response"](../modules/_responses_list_reel_media_viewer_feed_response_.md) / [ListReelMediaViewerFeedResponseLocation](_responses_list_reel_media_viewer_feed_response_.listreelmediaviewerfeedresponselocation.md) /
 
@@ -28,7 +28,7 @@
 
 • **address**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:182](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L182)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:182](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L182)*
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 • **city**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:183](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L183)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:183](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L183)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **external_source**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:187](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L187)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:187](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L187)*
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 • **facebook_places_id**: *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:188](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L188)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:188](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L188)*
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 • **lat**: *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:186](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L186)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:186](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L186)*
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 • **lng**: *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:185](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L185)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:185](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L185)*
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 • **name**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:181](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L181)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:181](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L181)*
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 • **pk**: *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:180](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L180)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:180](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L180)*
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 • **short_name**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:184](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L184)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:184](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L184)*

@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["types/graphql-request.options"](_types_graphql_request_options_.md) /
 
@@ -21,7 +21,7 @@
 
 Ƭ **InsightsFriendlyName**: *"IgInsightsAccountInsightsSurfaceQuery" | "IgInsightsAccountInsightsWithTabsQuery" | "IgInsightsPostGridSurfaceQuery" | "IgInsightsPostInsightsQuery" | "IgInsightsStoryInsightsAppQuery" | string*
 
-*Defined in [types/graphql-request.options.ts:8](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/graphql-request.options.ts#L8)*
+*Defined in [types/graphql-request.options.ts:8](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/graphql-request.options.ts#L8)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 Ƭ **InsightsSurface**: *"account" | "post" | "story" | string*
 
-*Defined in [types/graphql-request.options.ts:15](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/graphql-request.options.ts#L15)*
+*Defined in [types/graphql-request.options.ts:15](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/graphql-request.options.ts#L15)*

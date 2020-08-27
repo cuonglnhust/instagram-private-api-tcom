@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["entities/live.entity"](../modules/_entities_live_entity_.md) / [LiveEntity](_entities_live_entity_.liveentity.md) /
 
@@ -28,7 +28,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -44,7 +44,7 @@ Name | Type |
 
 ▸ **getUrlAndKey**(`info`: object): *[LiveRtmpSettings](../interfaces/_types_live_obs_settings_.livertmpsettings.md)*
 
-*Defined in [entities/live.entity.ts:5](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/live.entity.ts#L5)*
+*Defined in [entities/live.entity.ts:5](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/live.entity.ts#L5)*
 
 **Parameters:**
 

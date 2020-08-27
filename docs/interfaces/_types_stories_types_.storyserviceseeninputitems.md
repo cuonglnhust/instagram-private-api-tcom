@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["types/stories.types"](../modules/_types_stories_types_.md) / [StoryServiceSeenInputItems](_types_stories_types_.storyserviceseeninputitems.md) /
 
@@ -22,7 +22,7 @@
 
 • **id**: *string*
 
-*Defined in [types/stories.types.ts:2](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/stories.types.ts#L2)*
+*Defined in [types/stories.types.ts:2](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/stories.types.ts#L2)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **taken_at**: *number*
 
-*Defined in [types/stories.types.ts:3](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/stories.types.ts#L3)*
+*Defined in [types/stories.types.ts:3](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/stories.types.ts#L3)*
 
 ___
 
@@ -38,6 +38,6 @@ ___
 
 • **user**: *object*
 
-*Defined in [types/stories.types.ts:4](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/stories.types.ts#L4)*
+*Defined in [types/stories.types.ts:4](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/stories.types.ts#L4)*
 
 #### Type declaration:

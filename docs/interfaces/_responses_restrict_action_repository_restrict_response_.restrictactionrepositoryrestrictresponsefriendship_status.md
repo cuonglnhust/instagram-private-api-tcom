@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/restrict-action.repository.restrict.response"](../modules/_responses_restrict_action_repository_restrict_response_.md) / [RestrictActionRepositoryRestrictResponseFriendship_status](_responses_restrict_action_repository_restrict_response_.restrictactionrepositoryrestrictresponsefriendship_status.md) /
 
@@ -28,7 +28,7 @@
 
 • **blocking**: *boolean*
 
-*Defined in [responses/restrict-action.repository.restrict.response.ts:17](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L17)*
+*Defined in [responses/restrict-action.repository.restrict.response.ts:17](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L17)*
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 • **followed_by**: *boolean*
 
-*Defined in [responses/restrict-action.repository.restrict.response.ts:16](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L16)*
+*Defined in [responses/restrict-action.repository.restrict.response.ts:16](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L16)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **following**: *boolean*
 
-*Defined in [responses/restrict-action.repository.restrict.response.ts:15](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L15)*
+*Defined in [responses/restrict-action.repository.restrict.response.ts:15](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L15)*
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 • **incoming_request**: *boolean*
 
-*Defined in [responses/restrict-action.repository.restrict.response.ts:20](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L20)*
+*Defined in [responses/restrict-action.repository.restrict.response.ts:20](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L20)*
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 • **is_bestie**: *boolean*
 
-*Defined in [responses/restrict-action.repository.restrict.response.ts:22](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L22)*
+*Defined in [responses/restrict-action.repository.restrict.response.ts:22](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L22)*
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 • **is_private**: *boolean*
 
-*Defined in [responses/restrict-action.repository.restrict.response.ts:19](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L19)*
+*Defined in [responses/restrict-action.repository.restrict.response.ts:19](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L19)*
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 • **is_restricted**: *boolean*
 
-*Defined in [responses/restrict-action.repository.restrict.response.ts:23](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L23)*
+*Defined in [responses/restrict-action.repository.restrict.response.ts:23](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L23)*
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 • **muting**: *boolean*
 
-*Defined in [responses/restrict-action.repository.restrict.response.ts:18](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L18)*
+*Defined in [responses/restrict-action.repository.restrict.response.ts:18](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L18)*
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 • **outgoing_request**: *boolean*
 
-*Defined in [responses/restrict-action.repository.restrict.response.ts:21](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L21)*
+*Defined in [responses/restrict-action.repository.restrict.response.ts:21](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/restrict-action.repository.restrict.response.ts#L21)*

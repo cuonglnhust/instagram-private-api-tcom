@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["core/repository"](../modules/_core_repository_.md) / [Repository](_core_repository_.repository.md) /
 
@@ -94,7 +94,7 @@
 
 \+ **new Repository**(`client`: [IgApiClient](_core_client_.igapiclient.md)): *[Repository](_core_repository_.repository.md)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/repository.ts#L6)*
 
 **Parameters:**
 

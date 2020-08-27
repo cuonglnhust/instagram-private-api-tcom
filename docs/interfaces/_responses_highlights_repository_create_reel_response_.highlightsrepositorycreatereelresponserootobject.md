@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/highlights.repository.create-reel.response"](../modules/_responses_highlights_repository_create_reel_response_.md) / [HighlightsRepositoryCreateReelResponseRootObject](_responses_highlights_repository_create_reel_response_.highlightsrepositorycreatereelresponserootobject.md) /
 
@@ -21,7 +21,7 @@
 
 • **reel**: *[HighlightsRepositoryCreateReelResponseReel](_responses_highlights_repository_create_reel_response_.highlightsrepositorycreatereelresponsereel.md)*
 
-*Defined in [responses/highlights.repository.create-reel.response.ts:2](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/highlights.repository.create-reel.response.ts#L2)*
+*Defined in [responses/highlights.repository.create-reel.response.ts:2](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/highlights.repository.create-reel.response.ts#L2)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **status**: *string*
 
-*Defined in [responses/highlights.repository.create-reel.response.ts:3](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/highlights.repository.create-reel.response.ts#L3)*
+*Defined in [responses/highlights.repository.create-reel.response.ts:3](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/highlights.repository.create-reel.response.ts#L3)*

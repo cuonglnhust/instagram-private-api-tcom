@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/account.repository.login.error.response"](_responses_account_repository_login_error_response_.md) /
 

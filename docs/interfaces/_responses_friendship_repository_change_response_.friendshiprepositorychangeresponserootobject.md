@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/friendship.repository.change.response"](../modules/_responses_friendship_repository_change_response_.md) / [FriendshipRepositoryChangeResponseRootObject](_responses_friendship_repository_change_response_.friendshiprepositorychangeresponserootobject.md) /
 
@@ -21,7 +21,7 @@
 
 • **friendship_status**: *[FriendshipRepositoryChangeResponseFriendship_status](_responses_friendship_repository_change_response_.friendshiprepositorychangeresponsefriendship_status.md)*
 
-*Defined in [responses/friendship.repository.change.response.ts:2](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/friendship.repository.change.response.ts#L2)*
+*Defined in [responses/friendship.repository.change.response.ts:2](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/friendship.repository.change.response.ts#L2)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **status**: *string*
 
-*Defined in [responses/friendship.repository.change.response.ts:3](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/friendship.repository.change.response.ts#L3)*
+*Defined in [responses/friendship.repository.change.response.ts:3](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/friendship.repository.change.response.ts#L3)*

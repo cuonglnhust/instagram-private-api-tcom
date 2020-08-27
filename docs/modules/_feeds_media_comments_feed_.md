@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["feeds/media-comments.feed"](_feeds_media_comments_feed_.md) /
 

@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/insights.service.post.response"](../modules/_responses_insights_service_post_response_.md) / [InsightsServicePostResponsePost](_responses_insights_service_post_response_.insightsservicepostresponsepost.md) /
 
@@ -21,7 +21,7 @@
 
 • **nodes**: *[InsightsServicePostResponseNodesItem](_responses_insights_service_post_response_.insightsservicepostresponsenodesitem.md)[]*
 
-*Defined in [responses/insights.service.post.response.ts:60](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/insights.service.post.response.ts#L60)*
+*Defined in [responses/insights.service.post.response.ts:60](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/insights.service.post.response.ts#L60)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **value**: *number*
 
-*Defined in [responses/insights.service.post.response.ts:59](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/insights.service.post.response.ts#L59)*
+*Defined in [responses/insights.service.post.response.ts:59](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/insights.service.post.response.ts#L59)*

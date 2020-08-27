@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/blocked-users.feed.response"](_responses_blocked_users_feed_response_.md) /
 

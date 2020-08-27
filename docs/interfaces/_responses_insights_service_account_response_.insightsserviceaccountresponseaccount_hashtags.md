@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/insights.service.account.response"](../modules/_responses_insights_service_account_response_.md) / [InsightsServiceAccountResponseAccount_hashtags](_responses_insights_service_account_response_.insightsserviceaccountresponseaccount_hashtags.md) /
 
@@ -21,7 +21,7 @@
 
 • **count**: *number*
 
-*Defined in [responses/insights.service.account.response.ts:94](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/insights.service.account.response.ts#L94)*
+*Defined in [responses/insights.service.account.response.ts:94](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/insights.service.account.response.ts#L94)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **nodes**: *any[]*
 
-*Defined in [responses/insights.service.account.response.ts:95](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/insights.service.account.response.ts#L95)*
+*Defined in [responses/insights.service.account.response.ts:95](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/insights.service.account.response.ts#L95)*

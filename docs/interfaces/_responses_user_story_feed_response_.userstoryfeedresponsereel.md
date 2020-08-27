@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/user-story.feed.response"](../modules/_responses_user_story_feed_response_.md) / [UserStoryFeedResponseReel](_responses_user_story_feed_response_.userstoryfeedresponsereel.md) /
 
@@ -32,7 +32,7 @@
 
 • **can_reply**: *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:11](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L11)*
+*Defined in [responses/user-story.feed.response.ts:11](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L11)*
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 • **can_reshare**: *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:12](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L12)*
+*Defined in [responses/user-story.feed.response.ts:12](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L12)*
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 • **expiring_at**: *number*
 
-*Defined in [responses/user-story.feed.response.ts:9](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L9)*
+*Defined in [responses/user-story.feed.response.ts:9](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L9)*
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 • **has_besties_media**: *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:17](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L17)*
+*Defined in [responses/user-story.feed.response.ts:17](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L17)*
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 • **has_pride_media**: *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:19](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L19)*
+*Defined in [responses/user-story.feed.response.ts:19](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L19)*
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 • **id**: *number*
 
-*Defined in [responses/user-story.feed.response.ts:7](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L7)*
+*Defined in [responses/user-story.feed.response.ts:7](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L7)*
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 • **items**: *[UserStoryFeedResponseItemsItem](_responses_user_story_feed_response_.userstoryfeedresponseitemsitem.md)[]*
 
-*Defined in [responses/user-story.feed.response.ts:15](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L15)*
+*Defined in [responses/user-story.feed.response.ts:15](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L15)*
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 • **latest_reel_media**: *number*
 
-*Defined in [responses/user-story.feed.response.ts:8](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L8)*
+*Defined in [responses/user-story.feed.response.ts:8](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L8)*
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 • **media_count**: *number*
 
-*Defined in [responses/user-story.feed.response.ts:18](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L18)*
+*Defined in [responses/user-story.feed.response.ts:18](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L18)*
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 • **prefetch_count**: *number*
 
-*Defined in [responses/user-story.feed.response.ts:16](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L16)*
+*Defined in [responses/user-story.feed.response.ts:16](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L16)*
 
 ___
 
@@ -112,7 +112,7 @@ ___
 
 • **reel_type**: *string*
 
-*Defined in [responses/user-story.feed.response.ts:13](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L13)*
+*Defined in [responses/user-story.feed.response.ts:13](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L13)*
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 • **seen**: *number*
 
-*Defined in [responses/user-story.feed.response.ts:10](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L10)*
+*Defined in [responses/user-story.feed.response.ts:10](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L10)*
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 • **user**: *[UserStoryFeedResponseUser](_responses_user_story_feed_response_.userstoryfeedresponseuser.md)*
 
-*Defined in [responses/user-story.feed.response.ts:14](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L14)*
+*Defined in [responses/user-story.feed.response.ts:14](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L14)*

@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/timeline.feed.response"](../modules/_responses_timeline_feed_response_.md) / [TimelineFeedResponseClientGapEnforcerMatrixItem](_responses_timeline_feed_response_.timelinefeedresponseclientgapenforcermatrixitem.md) /
 
@@ -20,4 +20,4 @@
 
 • **list**: *number[]*
 
-*Defined in [responses/timeline.feed.response.ts:287](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/timeline.feed.response.ts#L287)*
+*Defined in [responses/timeline.feed.response.ts:287](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/timeline.feed.response.ts#L287)*

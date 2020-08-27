@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/user-story.feed.response"](../modules/_responses_user_story_feed_response_.md) / [UserStoryFeedResponseFriendship_status](_responses_user_story_feed_response_.userstoryfeedresponsefriendship_status.md) /
 
@@ -28,7 +28,7 @@
 
 • **blocking**: *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:37](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L37)*
+*Defined in [responses/user-story.feed.response.ts:37](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L37)*
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 • **followed_by**: *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:36](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L36)*
+*Defined in [responses/user-story.feed.response.ts:36](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L36)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **following**: *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:35](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L35)*
+*Defined in [responses/user-story.feed.response.ts:35](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L35)*
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 • **incoming_request**: *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:40](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L40)*
+*Defined in [responses/user-story.feed.response.ts:40](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L40)*
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 • **is_bestie**: *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:42](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L42)*
+*Defined in [responses/user-story.feed.response.ts:42](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L42)*
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 • **is_private**: *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:39](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L39)*
+*Defined in [responses/user-story.feed.response.ts:39](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L39)*
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 • **is_restricted**: *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:43](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L43)*
+*Defined in [responses/user-story.feed.response.ts:43](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L43)*
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 • **muting**: *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:38](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L38)*
+*Defined in [responses/user-story.feed.response.ts:38](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L38)*
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 • **outgoing_request**: *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:41](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L41)*
+*Defined in [responses/user-story.feed.response.ts:41](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L41)*

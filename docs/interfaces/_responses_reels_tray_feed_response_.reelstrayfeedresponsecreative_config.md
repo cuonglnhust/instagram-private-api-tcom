@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/reels-tray.feed.response"](../modules/_responses_reels_tray_feed_response_.md) / [ReelsTrayFeedResponseCreative_config](_responses_reels_tray_feed_response_.reelstrayfeedresponsecreative_config.md) /
 
@@ -22,7 +22,7 @@
 
 • **camera_facing**: *string*
 
-*Defined in [responses/reels-tray.feed.response.ts:201](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/reels-tray.feed.response.ts#L201)*
+*Defined in [responses/reels-tray.feed.response.ts:201](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/reels-tray.feed.response.ts#L201)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **capture_type**: *string*
 
-*Defined in [responses/reels-tray.feed.response.ts:200](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/reels-tray.feed.response.ts#L200)*
+*Defined in [responses/reels-tray.feed.response.ts:200](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/reels-tray.feed.response.ts#L200)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **should_render_try_it_on**: *boolean*
 
-*Defined in [responses/reels-tray.feed.response.ts:202](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/reels-tray.feed.response.ts#L202)*
+*Defined in [responses/reels-tray.feed.response.ts:202](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/reels-tray.feed.response.ts#L202)*

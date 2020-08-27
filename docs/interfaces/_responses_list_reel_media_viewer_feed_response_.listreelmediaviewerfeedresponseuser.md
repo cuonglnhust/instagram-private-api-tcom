@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/list-reel-media-viewer.feed.response"](../modules/_responses_list_reel_media_viewer_feed_response_.md) / [ListReelMediaViewerFeedResponseUser](_responses_list_reel_media_viewer_feed_response_.listreelmediaviewerfeedresponseuser.md) /
 
@@ -66,7 +66,7 @@
 
 • **account_type**? : *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:123](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L123)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:123](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L123)*
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 • **address_street**? : *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:108](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L108)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:108](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L108)*
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 • **allowed_commenter_type**? : *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:95](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L95)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:95](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L95)*
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 • **biography**? : *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:100](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L100)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:100](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L100)*
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 • **biography_with_entities**? : *[ListReelMediaViewerFeedResponseBiography_with_entities](_responses_list_reel_media_viewer_feed_response_.listreelmediaviewerfeedresponsebiography_with_entities.md)*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:101](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L101)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:101](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L101)*
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 • **business_contact_method**? : *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:109](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L109)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:109](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L109)*
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 • **can_boost_post**? : *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:90](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L90)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:90](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L90)*
 
 ___
 
@@ -122,7 +122,7 @@ ___
 
 • **can_hide_category**? : *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:124](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L124)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:124](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L124)*
 
 ___
 
@@ -130,7 +130,7 @@ ___
 
 • **can_hide_public_contacts**? : *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:125](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L125)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:125](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L125)*
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 • **can_see_organic_insights**? : *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:91](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L91)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:91](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L91)*
 
 ___
 
@@ -146,7 +146,7 @@ ___
 
 • **category**? : *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:110](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L110)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:110](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L110)*
 
 ___
 
@@ -154,7 +154,7 @@ ___
 
 • **city_id**? : *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:111](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L111)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:111](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L111)*
 
 ___
 
@@ -162,7 +162,7 @@ ___
 
 • **city_name**? : *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:112](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L112)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:112](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L112)*
 
 ___
 
@@ -170,7 +170,7 @@ ___
 
 • **contact_phone_number**? : *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:113](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L113)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:113](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L113)*
 
 ___
 
@@ -178,7 +178,7 @@ ___
 
 • **direct_messaging**? : *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:106](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L106)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:106](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L106)*
 
 ___
 
@@ -186,7 +186,7 @@ ___
 
 • **external_lynx_url**? : *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:103](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L103)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:103](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L103)*
 
 ___
 
@@ -194,7 +194,7 @@ ___
 
 • **external_url**? : *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:102](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L102)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:102](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L102)*
 
 ___
 
@@ -202,7 +202,7 @@ ___
 
 • **fb_page_call_to_action_id**? : *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:107](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L107)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:107](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L107)*
 
 ___
 
@@ -210,7 +210,7 @@ ___
 
 • **follower_count**? : *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:97](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L97)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:97](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L97)*
 
 ___
 
@@ -218,7 +218,7 @@ ___
 
 • **following_count**? : *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:98](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L98)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:98](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L98)*
 
 ___
 
@@ -226,7 +226,7 @@ ___
 
 • **following_tag_count**? : *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:99](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L99)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:99](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L99)*
 
 ___
 
@@ -234,7 +234,7 @@ ___
 
 • **full_name**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:84](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L84)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:84](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L84)*
 
 ___
 
@@ -242,7 +242,7 @@ ___
 
 • **has_anonymous_profile_picture**? : *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:89](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L89)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:89](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L89)*
 
 ___
 
@@ -250,7 +250,7 @@ ___
 
 • **has_biography_translation**? : *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:104](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L104)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:104](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L104)*
 
 ___
 
@@ -258,7 +258,7 @@ ___
 
 • **instagram_location_id**? : *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:121](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L121)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:121](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L121)*
 
 ___
 
@@ -266,7 +266,7 @@ ___
 
 • **is_business**? : *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:122](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L122)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:122](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L122)*
 
 ___
 
@@ -274,7 +274,7 @@ ___
 
 • **is_call_to_action_enabled**? : *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:114](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L114)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:114](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L114)*
 
 ___
 
@@ -282,7 +282,7 @@ ___
 
 • **is_private**: *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:85](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L85)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:85](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L85)*
 
 ___
 
@@ -290,7 +290,7 @@ ___
 
 • **is_unpublished**? : *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:94](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L94)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:94](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L94)*
 
 ___
 
@@ -298,7 +298,7 @@ ___
 
 • **is_verified**: *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:88](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L88)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:88](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L88)*
 
 ___
 
@@ -306,7 +306,7 @@ ___
 
 • **latitude**? : *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:115](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L115)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:115](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L115)*
 
 ___
 
@@ -314,7 +314,7 @@ ___
 
 • **longitude**? : *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:116](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L116)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:116](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L116)*
 
 ___
 
@@ -322,7 +322,7 @@ ___
 
 • **media_count**? : *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:96](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L96)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:96](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L96)*
 
 ___
 
@@ -330,7 +330,7 @@ ___
 
 • **mutual_followers_count**? : *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:105](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L105)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:105](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L105)*
 
 ___
 
@@ -338,7 +338,7 @@ ___
 
 • **pk**: *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:82](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L82)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:82](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L82)*
 
 ___
 
@@ -346,7 +346,7 @@ ___
 
 • **profile_pic_id**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:87](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L87)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:87](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L87)*
 
 ___
 
@@ -354,7 +354,7 @@ ___
 
 • **profile_pic_url**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:86](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L86)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:86](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L86)*
 
 ___
 
@@ -362,7 +362,7 @@ ___
 
 • **public_email**? : *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:117](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L117)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:117](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L117)*
 
 ___
 
@@ -370,7 +370,7 @@ ___
 
 • **public_phone_country_code**? : *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:118](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L118)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:118](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L118)*
 
 ___
 
@@ -378,7 +378,7 @@ ___
 
 • **public_phone_number**? : *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:119](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L119)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:119](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L119)*
 
 ___
 
@@ -386,7 +386,7 @@ ___
 
 • **reel_auto_archive**? : *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:93](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L93)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:93](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L93)*
 
 ___
 
@@ -394,7 +394,7 @@ ___
 
 • **should_show_category**? : *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:126](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L126)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:126](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L126)*
 
 ___
 
@@ -402,7 +402,7 @@ ___
 
 • **should_show_public_contacts**? : *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:127](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L127)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:127](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L127)*
 
 ___
 
@@ -410,7 +410,7 @@ ___
 
 • **should_show_tabbed_inbox**? : *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:128](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L128)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:128](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L128)*
 
 ___
 
@@ -418,7 +418,7 @@ ___
 
 • **show_insights_terms**? : *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:92](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L92)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:92](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L92)*
 
 ___
 
@@ -426,7 +426,7 @@ ___
 
 • **username**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:83](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L83)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:83](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L83)*
 
 ___
 
@@ -434,4 +434,4 @@ ___
 
 • **zip**? : *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:120](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L120)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:120](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L120)*

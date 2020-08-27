@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["types/direct-thread.broadcast-media.options"](../modules/_types_direct_thread_broadcast_media_options_.md) / [DirectThreadBroadcastPhotoOptions](_types_direct_thread_broadcast_media_options_.directthreadbroadcastphotooptions.md) /
 
@@ -22,7 +22,7 @@
 
 • **allowFullAspectRatio**? : *boolean*
 
-*Defined in [types/direct-thread.broadcast-media.options.ts:3](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/direct-thread.broadcast-media.options.ts#L3)*
+*Defined in [types/direct-thread.broadcast-media.options.ts:3](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/direct-thread.broadcast-media.options.ts#L3)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **file**: *`Buffer`*
 
-*Defined in [types/direct-thread.broadcast-media.options.ts:2](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/direct-thread.broadcast-media.options.ts#L2)*
+*Defined in [types/direct-thread.broadcast-media.options.ts:2](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/direct-thread.broadcast-media.options.ts#L2)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **uploadId**? : *string*
 
-*Defined in [types/direct-thread.broadcast-media.options.ts:4](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/direct-thread.broadcast-media.options.ts#L4)*
+*Defined in [types/direct-thread.broadcast-media.options.ts:4](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/direct-thread.broadcast-media.options.ts#L4)*

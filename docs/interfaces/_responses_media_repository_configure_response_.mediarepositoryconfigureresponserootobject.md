@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/media.repository.configure.response"](../modules/_responses_media_repository_configure_response_.md) / [MediaRepositoryConfigureResponseRootObject](_responses_media_repository_configure_response_.mediarepositoryconfigureresponserootobject.md) /
 
@@ -22,7 +22,7 @@
 
 • **media**: *[MediaRepositoryConfigureResponseMedia](_responses_media_repository_configure_response_.mediarepositoryconfigureresponsemedia.md)*
 
-*Defined in [responses/media.repository.configure.response.ts:2](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/media.repository.configure.response.ts#L2)*
+*Defined in [responses/media.repository.configure.response.ts:2](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/media.repository.configure.response.ts#L2)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **status**: *string*
 
-*Defined in [responses/media.repository.configure.response.ts:4](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/media.repository.configure.response.ts#L4)*
+*Defined in [responses/media.repository.configure.response.ts:4](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/media.repository.configure.response.ts#L4)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **upload_id**: *string*
 
-*Defined in [responses/media.repository.configure.response.ts:3](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/media.repository.configure.response.ts#L3)*
+*Defined in [responses/media.repository.configure.response.ts:3](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/media.repository.configure.response.ts#L3)*

@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/direct-thread.repository.broadcast.response"](../modules/_responses_direct_thread_repository_broadcast_response_.md) / [DirectThreadRepositoryBroadcastResponseRootObject](_responses_direct_thread_repository_broadcast_response_.directthreadrepositorybroadcastresponserootobject.md) /
 
@@ -23,7 +23,7 @@
 
 • **action**: *string*
 
-*Defined in [responses/direct-thread.repository.broadcast.response.ts:2](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/direct-thread.repository.broadcast.response.ts#L2)*
+*Defined in [responses/direct-thread.repository.broadcast.response.ts:2](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/direct-thread.repository.broadcast.response.ts#L2)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **payload**: *[DirectThreadRepositoryBroadcastResponsePayload](_responses_direct_thread_repository_broadcast_response_.directthreadrepositorybroadcastresponsepayload.md)*
 
-*Defined in [responses/direct-thread.repository.broadcast.response.ts:4](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/direct-thread.repository.broadcast.response.ts#L4)*
+*Defined in [responses/direct-thread.repository.broadcast.response.ts:4](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/direct-thread.repository.broadcast.response.ts#L4)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **status**: *string*
 
-*Defined in [responses/direct-thread.repository.broadcast.response.ts:5](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/direct-thread.repository.broadcast.response.ts#L5)*
+*Defined in [responses/direct-thread.repository.broadcast.response.ts:5](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/direct-thread.repository.broadcast.response.ts#L5)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **status_code**: *string*
 
-*Defined in [responses/direct-thread.repository.broadcast.response.ts:3](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/direct-thread.repository.broadcast.response.ts#L3)*
+*Defined in [responses/direct-thread.repository.broadcast.response.ts:3](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/direct-thread.repository.broadcast.response.ts#L3)*

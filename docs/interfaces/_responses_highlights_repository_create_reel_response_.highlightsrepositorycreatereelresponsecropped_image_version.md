@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/highlights.repository.create-reel.response"](../modules/_responses_highlights_repository_create_reel_response_.md) / [HighlightsRepositoryCreateReelResponseCropped_image_version](_responses_highlights_repository_create_reel_response_.highlightsrepositorycreatereelresponsecropped_image_version.md) /
 
@@ -23,7 +23,7 @@
 
 • **estimated_scans_sizes**: *number[]*
 
-*Defined in [responses/highlights.repository.create-reel.response.ts:34](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/highlights.repository.create-reel.response.ts#L34)*
+*Defined in [responses/highlights.repository.create-reel.response.ts:34](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/highlights.repository.create-reel.response.ts#L34)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **height**: *number*
 
-*Defined in [responses/highlights.repository.create-reel.response.ts:32](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/highlights.repository.create-reel.response.ts#L32)*
+*Defined in [responses/highlights.repository.create-reel.response.ts:32](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/highlights.repository.create-reel.response.ts#L32)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **url**: *string*
 
-*Defined in [responses/highlights.repository.create-reel.response.ts:33](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/highlights.repository.create-reel.response.ts#L33)*
+*Defined in [responses/highlights.repository.create-reel.response.ts:33](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/highlights.repository.create-reel.response.ts#L33)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **width**: *number*
 
-*Defined in [responses/highlights.repository.create-reel.response.ts:31](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/highlights.repository.create-reel.response.ts#L31)*
+*Defined in [responses/highlights.repository.create-reel.response.ts:31](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/highlights.repository.create-reel.response.ts#L31)*

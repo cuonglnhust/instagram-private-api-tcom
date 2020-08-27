@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/direct-thread.repository.add-user.response"](../modules/_responses_direct_thread_repository_add_user_response_.md) / [DirectThreadRepositoryAddUserResponseBoldItem](_responses_direct_thread_repository_add_user_response_.directthreadrepositoryadduserresponsebolditem.md) /
 
@@ -21,7 +21,7 @@
 
 • **end**: *number*
 
-*Defined in [responses/direct-thread.repository.add-user.response.ts:95](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/direct-thread.repository.add-user.response.ts#L95)*
+*Defined in [responses/direct-thread.repository.add-user.response.ts:95](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/direct-thread.repository.add-user.response.ts#L95)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **start**: *number*
 
-*Defined in [responses/direct-thread.repository.add-user.response.ts:94](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/direct-thread.repository.add-user.response.ts#L94)*
+*Defined in [responses/direct-thread.repository.add-user.response.ts:94](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/direct-thread.repository.add-user.response.ts#L94)*

@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/location.repository.story.response"](../modules/_responses_location_repository_story_response_.md) / [LocationRepositoryStoryResponseReelMentionsItem](_responses_location_repository_story_response_.locationrepositorystoryresponsereelmentionsitem.md) /
 
@@ -30,7 +30,7 @@
 
 • **display_type**: *string*
 
-*Defined in [responses/location.repository.story.response.ts:161](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/location.repository.story.response.ts#L161)*
+*Defined in [responses/location.repository.story.response.ts:161](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/location.repository.story.response.ts#L161)*
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 • **height**: *string*
 
-*Defined in [responses/location.repository.story.response.ts:157](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/location.repository.story.response.ts#L157)*
+*Defined in [responses/location.repository.story.response.ts:157](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/location.repository.story.response.ts#L157)*
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 • **is_hidden**: *number*
 
-*Defined in [responses/location.repository.story.response.ts:160](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/location.repository.story.response.ts#L160)*
+*Defined in [responses/location.repository.story.response.ts:160](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/location.repository.story.response.ts#L160)*
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 • **is_pinned**: *number*
 
-*Defined in [responses/location.repository.story.response.ts:159](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/location.repository.story.response.ts#L159)*
+*Defined in [responses/location.repository.story.response.ts:159](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/location.repository.story.response.ts#L159)*
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 • **is_sticker**: *number*
 
-*Defined in [responses/location.repository.story.response.ts:162](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/location.repository.story.response.ts#L162)*
+*Defined in [responses/location.repository.story.response.ts:162](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/location.repository.story.response.ts#L162)*
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 • **rotation**: *number*
 
-*Defined in [responses/location.repository.story.response.ts:158](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/location.repository.story.response.ts#L158)*
+*Defined in [responses/location.repository.story.response.ts:158](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/location.repository.story.response.ts#L158)*
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 • **user**: *[LocationRepositoryStoryResponseUser](_responses_location_repository_story_response_.locationrepositorystoryresponseuser.md)*
 
-*Defined in [responses/location.repository.story.response.ts:163](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/location.repository.story.response.ts#L163)*
+*Defined in [responses/location.repository.story.response.ts:163](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/location.repository.story.response.ts#L163)*
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 • **width**: *string*
 
-*Defined in [responses/location.repository.story.response.ts:156](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/location.repository.story.response.ts#L156)*
+*Defined in [responses/location.repository.story.response.ts:156](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/location.repository.story.response.ts#L156)*
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 • **x**: *string*
 
-*Defined in [responses/location.repository.story.response.ts:153](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/location.repository.story.response.ts#L153)*
+*Defined in [responses/location.repository.story.response.ts:153](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/location.repository.story.response.ts#L153)*
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 • **y**: *string*
 
-*Defined in [responses/location.repository.story.response.ts:154](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/location.repository.story.response.ts#L154)*
+*Defined in [responses/location.repository.story.response.ts:154](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/location.repository.story.response.ts#L154)*
 
 ___
 
@@ -110,4 +110,4 @@ ___
 
 • **z**: *number*
 
-*Defined in [responses/location.repository.story.response.ts:155](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/location.repository.story.response.ts#L155)*
+*Defined in [responses/location.repository.story.response.ts:155](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/location.repository.story.response.ts#L155)*

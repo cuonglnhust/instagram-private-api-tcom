@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["services/insights.service"](../modules/_services_insights_service_.md) / [InsightsService](_services_insights_service_.insightsservice.md) /
 
@@ -30,7 +30,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -46,7 +46,7 @@ Name | Type |
 
 ▸ **account**(`options`: [AccountInsightsOptions](../interfaces/_types_insights_options_.accountinsightsoptions.md)): *`Promise<InsightsServiceAccountResponseRootObject>`*
 
-*Defined in [services/insights.service.ts:7](https://github.com/dilame/instagram-private-api/blob/3e16058/src/services/insights.service.ts#L7)*
+*Defined in [services/insights.service.ts:7](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/services/insights.service.ts#L7)*
 
 **Parameters:**
 
@@ -62,7 +62,7 @@ ___
 
 ▸ **post**(`mediaId`: string): *`Promise<InsightsServicePostResponseRootObject>`*
 
-*Defined in [services/insights.service.ts:27](https://github.com/dilame/instagram-private-api/blob/3e16058/src/services/insights.service.ts#L27)*
+*Defined in [services/insights.service.ts:27](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/services/insights.service.ts#L27)*
 
 **Parameters:**
 
@@ -78,7 +78,7 @@ ___
 
 ▸ **story**(`storyId`: string): *`Promise<StoriesInsightsFeedResponseRootObject>`*
 
-*Defined in [services/insights.service.ts:43](https://github.com/dilame/instagram-private-api/blob/3e16058/src/services/insights.service.ts#L43)*
+*Defined in [services/insights.service.ts:43](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/services/insights.service.ts#L43)*
 
 **Parameters:**
 

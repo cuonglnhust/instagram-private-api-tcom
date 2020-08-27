@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/direct-thread.repository.update-title.response"](../modules/_responses_direct_thread_repository_update_title_response_.md) / [DirectThreadRepositoryUpdateTitleResponseActionLog](_responses_direct_thread_repository_update_title_response_.directthreadrepositoryupdatetitleresponseactionlog.md) /
 
@@ -22,7 +22,7 @@
 
 • **bold**: *[DirectThreadRepositoryUpdateTitleResponseBoldItem](_responses_direct_thread_repository_update_title_response_.directthreadrepositoryupdatetitleresponsebolditem.md)[]*
 
-*Defined in [responses/direct-thread.repository.update-title.response.ts:83](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/direct-thread.repository.update-title.response.ts#L83)*
+*Defined in [responses/direct-thread.repository.update-title.response.ts:83](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/direct-thread.repository.update-title.response.ts#L83)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **description**: *string*
 
-*Defined in [responses/direct-thread.repository.update-title.response.ts:82](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/direct-thread.repository.update-title.response.ts#L82)*
+*Defined in [responses/direct-thread.repository.update-title.response.ts:82](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/direct-thread.repository.update-title.response.ts#L82)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **text_attributes**: *[DirectThreadRepositoryUpdateTitleResponseTextAttributesItem](_responses_direct_thread_repository_update_title_response_.directthreadrepositoryupdatetitleresponsetextattributesitem.md)[]*
 
-*Defined in [responses/direct-thread.repository.update-title.response.ts:84](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/direct-thread.repository.update-title.response.ts#L84)*
+*Defined in [responses/direct-thread.repository.update-title.response.ts:84](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/direct-thread.repository.update-title.response.ts#L84)*

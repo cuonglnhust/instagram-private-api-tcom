@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["errors/ig-exact-user-not-found-error"](../modules/_errors_ig_exact_user_not_found_error_.md) / [IgExactUserNotFoundError](_errors_ig_exact_user_not_found_error_.igexactusernotfounderror.md) /
 
@@ -30,7 +30,7 @@
 
 *Overrides [IgClientError](_errors_ig_client_error_.igclienterror.md).[constructor](_errors_ig_client_error_.igclienterror.md#constructor)*
 
-*Defined in [errors/ig-exact-user-not-found-error.ts:3](https://github.com/dilame/instagram-private-api/blob/3e16058/src/errors/ig-exact-user-not-found-error.ts#L3)*
+*Defined in [errors/ig-exact-user-not-found-error.ts:3](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/errors/ig-exact-user-not-found-error.ts#L3)*
 
 **Returns:** *[IgExactUserNotFoundError](_errors_ig_exact_user_not_found_error_.igexactusernotfounderror.md)*
 
@@ -42,7 +42,7 @@
 
 *Inherited from void*
 
-Defined in /Users/bowzee/WebstormProjects/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:974
+Defined in /Users/bowzee/WebstormProjects/instagram-private-api-tcom/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:974
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 *Overrides void*
 
-Defined in /Users/bowzee/WebstormProjects/instagram-private-api/node_modules/ts-custom-error/dist/custom-error.d.ts:2
+Defined in /Users/bowzee/WebstormProjects/instagram-private-api-tcom/node_modules/ts-custom-error/dist/custom-error.d.ts:2
 
 ___
 
@@ -66,4 +66,4 @@ ___
 
 *Overrides void*
 
-Defined in /Users/bowzee/WebstormProjects/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:975
+Defined in /Users/bowzee/WebstormProjects/instagram-private-api-tcom/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:975

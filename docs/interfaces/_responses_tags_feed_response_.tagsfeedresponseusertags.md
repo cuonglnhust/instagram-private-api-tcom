@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/tags.feed.response"](../modules/_responses_tags_feed_response_.md) / [TagsFeedResponseUsertags](_responses_tags_feed_response_.tagsfeedresponseusertags.md) /
 
@@ -20,4 +20,4 @@
 
 • **in**: *[TagsFeedResponseInItem](_responses_tags_feed_response_.tagsfeedresponseinitem.md)[]*
 
-*Defined in [responses/tags.feed.response.ts:155](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tags.feed.response.ts#L155)*
+*Defined in [responses/tags.feed.response.ts:155](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tags.feed.response.ts#L155)*

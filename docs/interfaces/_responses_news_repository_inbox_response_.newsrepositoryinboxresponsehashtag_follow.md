@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/news.repository.inbox.response"](../modules/_responses_news_repository_inbox_response_.md) / [NewsRepositoryInboxResponseHashtag_follow](_responses_news_repository_inbox_response_.newsrepositoryinboxresponsehashtag_follow.md) /
 
@@ -22,7 +22,7 @@
 
 • **follow_status**: *number*
 
-*Defined in [responses/news.repository.inbox.response.ts:108](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/news.repository.inbox.response.ts#L108)*
+*Defined in [responses/news.repository.inbox.response.ts:108](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/news.repository.inbox.response.ts#L108)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **id**: *string*
 
-*Defined in [responses/news.repository.inbox.response.ts:106](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/news.repository.inbox.response.ts#L106)*
+*Defined in [responses/news.repository.inbox.response.ts:106](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/news.repository.inbox.response.ts#L106)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **name**: *string*
 
-*Defined in [responses/news.repository.inbox.response.ts:107](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/news.repository.inbox.response.ts#L107)*
+*Defined in [responses/news.repository.inbox.response.ts:107](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/news.repository.inbox.response.ts#L107)*

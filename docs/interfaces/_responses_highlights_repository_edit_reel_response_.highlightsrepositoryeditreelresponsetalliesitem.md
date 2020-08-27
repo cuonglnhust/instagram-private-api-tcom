@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/highlights.repository.edit-reel.response"](../modules/_responses_highlights_repository_edit_reel_response_.md) / [HighlightsRepositoryEditReelResponseTalliesItem](_responses_highlights_repository_edit_reel_response_.highlightsrepositoryeditreelresponsetalliesitem.md) /
 
@@ -21,7 +21,7 @@
 
 • **count**: *number*
 
-*Defined in [responses/highlights.repository.edit-reel.response.ts:150](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/highlights.repository.edit-reel.response.ts#L150)*
+*Defined in [responses/highlights.repository.edit-reel.response.ts:150](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/highlights.repository.edit-reel.response.ts#L150)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **text**: *string*
 
-*Defined in [responses/highlights.repository.edit-reel.response.ts:149](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/highlights.repository.edit-reel.response.ts#L149)*
+*Defined in [responses/highlights.repository.edit-reel.response.ts:149](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/highlights.repository.edit-reel.response.ts#L149)*

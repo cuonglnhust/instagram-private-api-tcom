@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/list-reel-media-viewer.feed.response"](../modules/_responses_list_reel_media_viewer_feed_response_.md) / [ListReelMediaViewerFeedResponseHashtag](_responses_list_reel_media_viewer_feed_response_.listreelmediaviewerfeedresponsehashtag.md) /
 
@@ -21,7 +21,7 @@
 
 • **id**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:147](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L147)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:147](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L147)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **name**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:146](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L146)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:146](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L146)*

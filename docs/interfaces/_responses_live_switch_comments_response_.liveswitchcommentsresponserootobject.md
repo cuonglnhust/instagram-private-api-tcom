@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/live.switch-comments.response"](../modules/_responses_live_switch_comments_response_.md) / [LiveSwitchCommentsResponseRootObject](_responses_live_switch_comments_response_.liveswitchcommentsresponserootobject.md) /
 
@@ -21,7 +21,7 @@
 
 • **comment_muted**: *number*
 
-*Defined in [responses/live.switch-comments.response.ts:2](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/live.switch-comments.response.ts#L2)*
+*Defined in [responses/live.switch-comments.response.ts:2](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/live.switch-comments.response.ts#L2)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **status**: *string*
 
-*Defined in [responses/live.switch-comments.response.ts:3](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/live.switch-comments.response.ts#L3)*
+*Defined in [responses/live.switch-comments.response.ts:3](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/live.switch-comments.response.ts#L3)*

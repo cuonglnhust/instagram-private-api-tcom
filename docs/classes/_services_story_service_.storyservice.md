@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["services/story.service"](../modules/_services_story_service_.md) / [StoryService](_services_story_service_.storyservice.md) /
 
@@ -28,7 +28,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -44,7 +44,7 @@ Name | Type |
 
 ▸ **seen**(`input`: [StoryServiceInput](../modules/_types_stories_types_.md#storyserviceinput), `sourceId`: string): *`Promise<StatusResponse>`*
 
-*Defined in [services/story.service.ts:5](https://github.com/dilame/instagram-private-api/blob/3e16058/src/services/story.service.ts#L5)*
+*Defined in [services/story.service.ts:5](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/services/story.service.ts#L5)*
 
 **Parameters:**
 

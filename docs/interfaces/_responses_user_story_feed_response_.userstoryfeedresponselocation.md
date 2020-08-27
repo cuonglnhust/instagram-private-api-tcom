@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/user-story.feed.response"](../modules/_responses_user_story_feed_response_.md) / [UserStoryFeedResponseLocation](_responses_user_story_feed_response_.userstoryfeedresponselocation.md) /
 
@@ -28,7 +28,7 @@
 
 • **address**: *string*
 
-*Defined in [responses/user-story.feed.response.ts:106](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L106)*
+*Defined in [responses/user-story.feed.response.ts:106](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L106)*
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 • **city**: *string*
 
-*Defined in [responses/user-story.feed.response.ts:107](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L107)*
+*Defined in [responses/user-story.feed.response.ts:107](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L107)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **external_source**: *string*
 
-*Defined in [responses/user-story.feed.response.ts:111](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L111)*
+*Defined in [responses/user-story.feed.response.ts:111](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L111)*
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 • **facebook_places_id**: *number*
 
-*Defined in [responses/user-story.feed.response.ts:112](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L112)*
+*Defined in [responses/user-story.feed.response.ts:112](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L112)*
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 • **lat**: *number*
 
-*Defined in [responses/user-story.feed.response.ts:110](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L110)*
+*Defined in [responses/user-story.feed.response.ts:110](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L110)*
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 • **lng**: *string | number*
 
-*Defined in [responses/user-story.feed.response.ts:109](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L109)*
+*Defined in [responses/user-story.feed.response.ts:109](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L109)*
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 • **name**: *string*
 
-*Defined in [responses/user-story.feed.response.ts:105](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L105)*
+*Defined in [responses/user-story.feed.response.ts:105](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L105)*
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 • **pk**: *number*
 
-*Defined in [responses/user-story.feed.response.ts:104](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L104)*
+*Defined in [responses/user-story.feed.response.ts:104](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L104)*
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 • **short_name**: *string*
 
-*Defined in [responses/user-story.feed.response.ts:108](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L108)*
+*Defined in [responses/user-story.feed.response.ts:108](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L108)*

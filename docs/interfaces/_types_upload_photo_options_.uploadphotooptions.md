@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["types/upload.photo.options"](../modules/_types_upload_photo_options_.md) / [UploadPhotoOptions](_types_upload_photo_options_.uploadphotooptions.md) /
 
@@ -22,7 +22,7 @@
 
 • **file**: *`Buffer`*
 
-*Defined in [types/upload.photo.options.ts:3](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/upload.photo.options.ts#L3)*
+*Defined in [types/upload.photo.options.ts:3](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/upload.photo.options.ts#L3)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **isSidecar**? : *boolean*
 
-*Defined in [types/upload.photo.options.ts:4](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/upload.photo.options.ts#L4)*
+*Defined in [types/upload.photo.options.ts:4](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/upload.photo.options.ts#L4)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **uploadId**? : *string*
 
-*Defined in [types/upload.photo.options.ts:2](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/upload.photo.options.ts#L2)*
+*Defined in [types/upload.photo.options.ts:2](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/upload.photo.options.ts#L2)*

@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/saved.feed.response"](../modules/_responses_saved_feed_response_.md) / [SavedFeedResponseItemsItem](_responses_saved_feed_response_.savedfeedresponseitemsitem.md) /
 
@@ -20,4 +20,4 @@
 
 • **media**: *[SavedFeedResponseMedia](_responses_saved_feed_response_.savedfeedresponsemedia.md)*
 
-*Defined in [responses/saved.feed.response.ts:10](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/saved.feed.response.ts#L10)*
+*Defined in [responses/saved.feed.response.ts:10](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/saved.feed.response.ts#L10)*

@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["types/media.configure-story.options"](../modules/_types_media_configure_story_options_.md) / [StorySticker](_types_media_configure_story_options_.storysticker.md) /
 
@@ -44,7 +44,7 @@
 
 • **height**: *number*
 
-*Defined in [types/media.configure-story.options.ts:75](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L75)*
+*Defined in [types/media.configure-story.options.ts:75](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L75)*
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 • **rotation**: *number*
 
-*Defined in [types/media.configure-story.options.ts:76](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L76)*
+*Defined in [types/media.configure-story.options.ts:76](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L76)*
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 • **width**: *number*
 
-*Defined in [types/media.configure-story.options.ts:74](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L74)*
+*Defined in [types/media.configure-story.options.ts:74](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L74)*
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 • **x**: *number*
 
-*Defined in [types/media.configure-story.options.ts:72](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L72)*
+*Defined in [types/media.configure-story.options.ts:72](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L72)*
 
 ___
 
@@ -76,4 +76,4 @@ ___
 
 • **y**: *number*
 
-*Defined in [types/media.configure-story.options.ts:73](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L73)*
+*Defined in [types/media.configure-story.options.ts:73](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L73)*

@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/highlights.repository.highlights-tray.response"](../modules/_responses_highlights_repository_highlights_tray_response_.md) / [HighlightsRepositoryHighlightsTrayResponseCropped_image_version](_responses_highlights_repository_highlights_tray_response_.highlightsrepositoryhighlightstrayresponsecropped_image_version.md) /
 
@@ -23,7 +23,7 @@
 
 • **estimated_scans_sizes**: *number[]*
 
-*Defined in [responses/highlights.repository.highlights-tray.response.ts:32](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/highlights.repository.highlights-tray.response.ts#L32)*
+*Defined in [responses/highlights.repository.highlights-tray.response.ts:32](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/highlights.repository.highlights-tray.response.ts#L32)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **height**: *number*
 
-*Defined in [responses/highlights.repository.highlights-tray.response.ts:30](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/highlights.repository.highlights-tray.response.ts#L30)*
+*Defined in [responses/highlights.repository.highlights-tray.response.ts:30](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/highlights.repository.highlights-tray.response.ts#L30)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **url**: *string*
 
-*Defined in [responses/highlights.repository.highlights-tray.response.ts:31](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/highlights.repository.highlights-tray.response.ts#L31)*
+*Defined in [responses/highlights.repository.highlights-tray.response.ts:31](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/highlights.repository.highlights-tray.response.ts#L31)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **width**: *number*
 
-*Defined in [responses/highlights.repository.highlights-tray.response.ts:29](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/highlights.repository.highlights-tray.response.ts#L29)*
+*Defined in [responses/highlights.repository.highlights-tray.response.ts:29](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/highlights.repository.highlights-tray.response.ts#L29)*

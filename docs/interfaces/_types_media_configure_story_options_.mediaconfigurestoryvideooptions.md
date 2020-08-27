@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["types/media.configure-story.options"](../modules/_types_media_configure_story_options_.md) / [MediaConfigureStoryVideoOptions](_types_media_configure_story_options_.mediaconfigurestoryvideooptions.md) /
 
@@ -63,7 +63,7 @@
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[allow_multi_configures](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-allow_multi_configures)*
 
-*Defined in [types/media.configure-story.options.ts:11](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L11)*
+*Defined in [types/media.configure-story.options.ts:11](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L11)*
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[attached_media](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-attached_media)*
 
-*Defined in [types/media.configure-story.options.ts:48](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L48)*
+*Defined in [types/media.configure-story.options.ts:48](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L48)*
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[audience](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-audience)*
 
-*Defined in [types/media.configure-story.options.ts:7](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L7)*
+*Defined in [types/media.configure-story.options.ts:7](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L7)*
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 *Inherited from [MediaConfigureVideoOptions](_types_media_configure_video_options_.mediaconfigurevideooptions.md).[audio_muted](_types_media_configure_video_options_.mediaconfigurevideooptions.md#optional-audio_muted)*
 
-*Defined in [types/media.configure-video.options.ts:8](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-video.options.ts#L8)*
+*Defined in [types/media.configure-video.options.ts:8](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-video.options.ts#L8)*
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[camera_position](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-camera_position)*
 
-*Defined in [types/media.configure-story.options.ts:10](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L10)*
+*Defined in [types/media.configure-story.options.ts:10](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L10)*
 
 ___
 
@@ -113,7 +113,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[caption](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-caption)*
 
-*Defined in [types/media.configure-story.options.ts:20](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L20)*
+*Defined in [types/media.configure-story.options.ts:20](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L20)*
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[client_context](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-client_context)*
 
-*Defined in [types/media.configure-story.options.ts:16](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L16)*
+*Defined in [types/media.configure-story.options.ts:16](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L16)*
 
 ___
 
@@ -133,7 +133,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[client_shared_at](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-client_shared_at)*
 
-*Defined in [types/media.configure-story.options.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L6)*
+*Defined in [types/media.configure-story.options.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L6)*
 
 ___
 
@@ -143,7 +143,7 @@ ___
 
 *Inherited from [MediaConfigureVideoOptions](_types_media_configure_video_options_.mediaconfigurevideooptions.md).[clips](_types_media_configure_video_options_.mediaconfigurevideooptions.md#optional-clips)*
 
-*Defined in [types/media.configure-video.options.ts:7](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-video.options.ts#L7)*
+*Defined in [types/media.configure-video.options.ts:7](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-video.options.ts#L7)*
 
 ___
 
@@ -153,7 +153,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[configure_mode](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#configure_mode)*
 
-*Defined in [types/media.configure-story.options.ts:9](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L9)*
+*Defined in [types/media.configure-story.options.ts:9](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L9)*
 
 ___
 
@@ -165,7 +165,7 @@ ___
 
 *Overrides [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[geotag_enabled](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-geotag_enabled)*
 
-*Defined in [types/media.configure-video.options.ts:14](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-video.options.ts#L14)*
+*Defined in [types/media.configure-video.options.ts:14](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-video.options.ts#L14)*
 
 ___
 
@@ -175,7 +175,7 @@ ___
 
 *Inherited from [MediaConfigureVideoOptions](_types_media_configure_video_options_.mediaconfigurevideooptions.md).[height](_types_media_configure_video_options_.mediaconfigurevideooptions.md#height)*
 
-*Defined in [types/media.configure-video.options.ts:12](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-video.options.ts#L12)*
+*Defined in [types/media.configure-video.options.ts:12](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-video.options.ts#L12)*
 
 ___
 
@@ -185,7 +185,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[internal_features](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-internal_features)*
 
-*Defined in [types/media.configure-story.options.ts:39](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L39)*
+*Defined in [types/media.configure-story.options.ts:39](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L39)*
 
 ___
 
@@ -195,7 +195,7 @@ ___
 
 *Inherited from [MediaConfigureVideoOptions](_types_media_configure_video_options_.mediaconfigurevideooptions.md).[length](_types_media_configure_video_options_.mediaconfigurevideooptions.md#length)*
 
-*Defined in [types/media.configure-video.options.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-video.options.ts#L6)*
+*Defined in [types/media.configure-video.options.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-video.options.ts#L6)*
 
 ___
 
@@ -205,7 +205,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[mas_opt_in](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-mas_opt_in)*
 
-*Defined in [types/media.configure-story.options.ts:21](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L21)*
+*Defined in [types/media.configure-story.options.ts:21](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L21)*
 
 ___
 
@@ -217,7 +217,7 @@ ___
 
 *Overrides [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[media_latitude](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-media_latitude)*
 
-*Defined in [types/media.configure-video.options.ts:17](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-video.options.ts#L17)*
+*Defined in [types/media.configure-video.options.ts:17](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-video.options.ts#L17)*
 
 ___
 
@@ -229,7 +229,7 @@ ___
 
 *Overrides [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[media_longitude](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-media_longitude)*
 
-*Defined in [types/media.configure-video.options.ts:18](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-video.options.ts#L18)*
+*Defined in [types/media.configure-video.options.ts:18](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-video.options.ts#L18)*
 
 ___
 
@@ -239,7 +239,7 @@ ___
 
 *Inherited from [MediaConfigureVideoOptions](_types_media_configure_video_options_.mediaconfigurevideooptions.md).[poster_frame_index](_types_media_configure_video_options_.mediaconfigurevideooptions.md#optional-poster_frame_index)*
 
-*Defined in [types/media.configure-video.options.ts:9](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-video.options.ts#L9)*
+*Defined in [types/media.configure-video.options.ts:9](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-video.options.ts#L9)*
 
 ___
 
@@ -251,7 +251,7 @@ ___
 
 *Overrides [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[posting_latitude](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-posting_latitude)*
 
-*Defined in [types/media.configure-video.options.ts:15](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-video.options.ts#L15)*
+*Defined in [types/media.configure-video.options.ts:15](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-video.options.ts#L15)*
 
 ___
 
@@ -263,7 +263,7 @@ ___
 
 *Overrides [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[posting_longitude](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-posting_longitude)*
 
-*Defined in [types/media.configure-video.options.ts:16](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-video.options.ts#L16)*
+*Defined in [types/media.configure-video.options.ts:16](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-video.options.ts#L16)*
 
 ___
 
@@ -273,7 +273,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[recipient_users](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-recipient_users)*
 
-*Defined in [types/media.configure-story.options.ts:15](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L15)*
+*Defined in [types/media.configure-story.options.ts:15](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L15)*
 
 ___
 
@@ -283,7 +283,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[reel_mentions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-reel_mentions)*
 
-*Defined in [types/media.configure-story.options.ts:35](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L35)*
+*Defined in [types/media.configure-story.options.ts:35](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L35)*
 
 ___
 
@@ -293,7 +293,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[reply_type](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-reply_type)*
 
-*Defined in [types/media.configure-story.options.ts:18](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L18)*
+*Defined in [types/media.configure-story.options.ts:18](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L18)*
 
 ___
 
@@ -303,7 +303,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[story_chats](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-story_chats)*
 
-*Defined in [types/media.configure-story.options.ts:50](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L50)*
+*Defined in [types/media.configure-story.options.ts:50](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L50)*
 
 ___
 
@@ -313,7 +313,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[story_countdowns](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-story_countdowns)*
 
-*Defined in [types/media.configure-story.options.ts:46](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L46)*
+*Defined in [types/media.configure-story.options.ts:46](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L46)*
 
 ___
 
@@ -323,7 +323,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[story_cta](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-story_cta)*
 
-*Defined in [types/media.configure-story.options.ts:55](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L55)*
+*Defined in [types/media.configure-story.options.ts:55](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L55)*
 
 ___
 
@@ -333,7 +333,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[story_hashtags](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-story_hashtags)*
 
-*Defined in [types/media.configure-story.options.ts:26](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L26)*
+*Defined in [types/media.configure-story.options.ts:26](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L26)*
 
 ___
 
@@ -343,7 +343,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[story_locations](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-story_locations)*
 
-*Defined in [types/media.configure-story.options.ts:28](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L28)*
+*Defined in [types/media.configure-story.options.ts:28](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L28)*
 
 ___
 
@@ -353,7 +353,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[story_media_creation_date](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-story_media_creation_date)*
 
-*Defined in [types/media.configure-story.options.ts:5](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L5)*
+*Defined in [types/media.configure-story.options.ts:5](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L5)*
 
 ___
 
@@ -363,7 +363,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[story_polls](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-story_polls)*
 
-*Defined in [types/media.configure-story.options.ts:38](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L38)*
+*Defined in [types/media.configure-story.options.ts:38](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L38)*
 
 ___
 
@@ -373,7 +373,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[story_questions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-story_questions)*
 
-*Defined in [types/media.configure-story.options.ts:44](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L44)*
+*Defined in [types/media.configure-story.options.ts:44](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L44)*
 
 ___
 
@@ -383,7 +383,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[story_quizs](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-story_quizs)*
 
-*Defined in [types/media.configure-story.options.ts:52](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L52)*
+*Defined in [types/media.configure-story.options.ts:52](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L52)*
 
 ___
 
@@ -393,7 +393,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[story_sliders](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-story_sliders)*
 
-*Defined in [types/media.configure-story.options.ts:42](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L42)*
+*Defined in [types/media.configure-story.options.ts:42](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L42)*
 
 ___
 
@@ -403,7 +403,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[story_sticker_ids](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-story_sticker_ids)*
 
-*Defined in [types/media.configure-story.options.ts:23](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L23)*
+*Defined in [types/media.configure-story.options.ts:23](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L23)*
 
 ___
 
@@ -413,7 +413,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[thread_ids](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-thread_ids)*
 
-*Defined in [types/media.configure-story.options.ts:14](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L14)*
+*Defined in [types/media.configure-story.options.ts:14](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L14)*
 
 ___
 
@@ -423,7 +423,7 @@ ___
 
 *Inherited from [MediaConfigureVideoOptions](_types_media_configure_video_options_.mediaconfigurevideooptions.md).[upload_id](_types_media_configure_video_options_.mediaconfigurevideooptions.md#upload_id)*
 
-*Defined in [types/media.configure-video.options.ts:5](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-video.options.ts#L5)*
+*Defined in [types/media.configure-video.options.ts:5](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-video.options.ts#L5)*
 
 ___
 
@@ -433,7 +433,7 @@ ___
 
 *Inherited from [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md).[view_mode](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md#optional-view_mode)*
 
-*Defined in [types/media.configure-story.options.ts:17](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L17)*
+*Defined in [types/media.configure-story.options.ts:17](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L17)*
 
 ___
 
@@ -443,4 +443,4 @@ ___
 
 *Inherited from [MediaConfigureVideoOptions](_types_media_configure_video_options_.mediaconfigurevideooptions.md).[width](_types_media_configure_video_options_.mediaconfigurevideooptions.md#width)*
 
-*Defined in [types/media.configure-video.options.ts:11](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-video.options.ts#L11)*
+*Defined in [types/media.configure-video.options.ts:11](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-video.options.ts#L11)*

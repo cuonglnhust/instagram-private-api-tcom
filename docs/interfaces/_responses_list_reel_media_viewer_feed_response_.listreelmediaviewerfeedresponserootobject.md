@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/list-reel-media-viewer.feed.response"](../modules/_responses_list_reel_media_viewer_feed_response_.md) / [ListReelMediaViewerFeedResponseRootObject](_responses_list_reel_media_viewer_feed_response_.listreelmediaviewerfeedresponserootobject.md) /
 
@@ -25,7 +25,7 @@
 
 • **next_max_id**: *string | null*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:3](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L3)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:3](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L3)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **status**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:7](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L7)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:7](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L7)*
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 • **total_viewer_count**: *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:5](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L5)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:5](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L5)*
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 • **updated_media**: *[ListReelMediaViewerFeedResponseUpdated_media](_responses_list_reel_media_viewer_feed_response_.listreelmediaviewerfeedresponseupdated_media.md)*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L6)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L6)*
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 • **user_count**: *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:4](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L4)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:4](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L4)*
 
 ___
 
@@ -65,4 +65,4 @@ ___
 
 • **users**: *[ListReelMediaViewerFeedResponseUsersItem](_responses_list_reel_media_viewer_feed_response_.listreelmediaviewerfeedresponseusersitem.md)[]*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:2](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L2)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:2](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L2)*

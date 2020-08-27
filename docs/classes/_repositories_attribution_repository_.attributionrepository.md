@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["repositories/attribution.repository"](../modules/_repositories_attribution_repository_.md) / [AttributionRepository](_repositories_attribution_repository_.attributionrepository.md) /
 
@@ -29,7 +29,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -45,7 +45,7 @@ Name | Type |
 
 ▸ **logAttribution**(): *`Promise<any>`*
 
-*Defined in [repositories/attribution.repository.ts:4](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/attribution.repository.ts#L4)*
+*Defined in [repositories/attribution.repository.ts:4](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/attribution.repository.ts#L4)*
 
 **Returns:** *`Promise<any>`*
 
@@ -55,6 +55,6 @@ ___
 
 ▸ **logResurrectAttribution**(): *`Promise<any>`*
 
-*Defined in [repositories/attribution.repository.ts:16](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/attribution.repository.ts#L16)*
+*Defined in [repositories/attribution.repository.ts:16](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/attribution.repository.ts#L16)*
 
 **Returns:** *`Promise<any>`*

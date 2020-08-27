@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/list-reel-media-viewer.feed.response"](../modules/_responses_list_reel_media_viewer_feed_response_.md) / [ListReelMediaViewerFeedResponseStoryFundraiserDonationInfosItem](_responses_list_reel_media_viewer_feed_response_.listreelmediaviewerfeedresponsestoryfundraiserdonationinfositem.md) /
 
@@ -23,7 +23,7 @@
 
 • **amount_raised**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:239](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L239)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:239](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L239)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **charity**: *[ListReelMediaViewerFeedResponseCharity](_responses_list_reel_media_viewer_feed_response_.listreelmediaviewerfeedresponsecharity.md)*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:238](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L238)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:238](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L238)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **donations**: *[ListReelMediaViewerFeedResponseDonations](_responses_list_reel_media_viewer_feed_response_.listreelmediaviewerfeedresponsedonations.md)*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:240](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L240)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:240](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L240)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **fundraiser_id**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:237](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L237)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:237](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L237)*

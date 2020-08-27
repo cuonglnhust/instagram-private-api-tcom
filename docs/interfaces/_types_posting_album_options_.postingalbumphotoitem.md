@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["types/posting.album.options"](../modules/_types_posting_album_options_.md) / [PostingAlbumPhotoItem](_types_posting_album_options_.postingalbumphotoitem.md) /
 
@@ -26,7 +26,7 @@
 
 • **file**: *`Buffer`*
 
-*Defined in [types/posting.album.options.ts:15](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.album.options.ts#L15)*
+*Defined in [types/posting.album.options.ts:15](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.album.options.ts#L15)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **height**? : *number*
 
-*Defined in [types/posting.album.options.ts:17](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.album.options.ts#L17)*
+*Defined in [types/posting.album.options.ts:17](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.album.options.ts#L17)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 *Inherited from [PostingAlbumItem](_types_posting_album_options_.postingalbumitem.md).[uploadId](_types_posting_album_options_.postingalbumitem.md#optional-uploadid)*
 
-*Defined in [types/posting.album.options.ts:11](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.album.options.ts#L11)*
+*Defined in [types/posting.album.options.ts:11](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.album.options.ts#L11)*
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 *Inherited from [PostingAlbumItem](_types_posting_album_options_.postingalbumitem.md).[usertags](_types_posting_album_options_.postingalbumitem.md#optional-usertags)*
 
-*Defined in [types/posting.album.options.ts:10](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.album.options.ts#L10)*
+*Defined in [types/posting.album.options.ts:10](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.album.options.ts#L10)*
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 • **width**? : *number*
 
-*Defined in [types/posting.album.options.ts:16](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/posting.album.options.ts#L16)*
+*Defined in [types/posting.album.options.ts:16](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/posting.album.options.ts#L16)*

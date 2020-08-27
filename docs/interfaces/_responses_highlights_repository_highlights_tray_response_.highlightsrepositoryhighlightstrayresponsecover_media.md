@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/highlights.repository.highlights-tray.response"](../modules/_responses_highlights_repository_highlights_tray_response_.md) / [HighlightsRepositoryHighlightsTrayResponseCover_media](_responses_highlights_repository_highlights_tray_response_.highlightsrepositoryhighlightstrayresponsecover_media.md) /
 
@@ -22,7 +22,7 @@
 
 • **crop_rect**: *string | number[] | number[]*
 
-*Defined in [responses/highlights.repository.highlights-tray.response.ts:25](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/highlights.repository.highlights-tray.response.ts#L25)*
+*Defined in [responses/highlights.repository.highlights-tray.response.ts:25](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/highlights.repository.highlights-tray.response.ts#L25)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **cropped_image_version**: *[HighlightsRepositoryHighlightsTrayResponseCropped_image_version](_responses_highlights_repository_highlights_tray_response_.highlightsrepositoryhighlightstrayresponsecropped_image_version.md)*
 
-*Defined in [responses/highlights.repository.highlights-tray.response.ts:24](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/highlights.repository.highlights-tray.response.ts#L24)*
+*Defined in [responses/highlights.repository.highlights-tray.response.ts:24](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/highlights.repository.highlights-tray.response.ts#L24)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **media_id**: *string*
 
-*Defined in [responses/highlights.repository.highlights-tray.response.ts:26](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/highlights.repository.highlights-tray.response.ts#L26)*
+*Defined in [responses/highlights.repository.highlights-tray.response.ts:26](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/highlights.repository.highlights-tray.response.ts#L26)*

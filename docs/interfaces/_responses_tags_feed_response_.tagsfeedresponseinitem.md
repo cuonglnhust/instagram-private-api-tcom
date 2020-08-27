@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/tags.feed.response"](../modules/_responses_tags_feed_response_.md) / [TagsFeedResponseInItem](_responses_tags_feed_response_.tagsfeedresponseinitem.md) /
 
@@ -23,7 +23,7 @@
 
 • **duration_in_video_in_sec**: *null*
 
-*Defined in [responses/tags.feed.response.ts:161](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tags.feed.response.ts#L161)*
+*Defined in [responses/tags.feed.response.ts:161](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tags.feed.response.ts#L161)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **position**: *number[] | string | number[]*
 
-*Defined in [responses/tags.feed.response.ts:159](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tags.feed.response.ts#L159)*
+*Defined in [responses/tags.feed.response.ts:159](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tags.feed.response.ts#L159)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **start_time_in_video_in_sec**: *null*
 
-*Defined in [responses/tags.feed.response.ts:160](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tags.feed.response.ts#L160)*
+*Defined in [responses/tags.feed.response.ts:160](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tags.feed.response.ts#L160)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **user**: *[TagsFeedResponseUser](_responses_tags_feed_response_.tagsfeedresponseuser.md)*
 
-*Defined in [responses/tags.feed.response.ts:158](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/tags.feed.response.ts#L158)*
+*Defined in [responses/tags.feed.response.ts:158](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/tags.feed.response.ts#L158)*

@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/reels-tray.feed.response"](_responses_reels_tray_feed_response_.md) /
 

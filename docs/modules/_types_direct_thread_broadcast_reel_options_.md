@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["types/direct-thread.broadcast-reel.options"](_types_direct_thread_broadcast_reel_options_.md) /
 

@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/list-reel-media-viewer.feed.response"](../modules/_responses_list_reel_media_viewer_feed_response_.md) / [ListReelMediaViewerFeedResponseConsumption_sheet_config](_responses_list_reel_media_viewer_feed_response_.listreelmediaviewerfeedresponseconsumption_sheet_config.md) /
 
@@ -27,7 +27,7 @@
 
 • **can_viewer_donate**: *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:220](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L220)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:220](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L220)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • **currency**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:223](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L223)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:223](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L223)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **donation_amount_config**: *[ListReelMediaViewerFeedResponseDonation_amount_config](_responses_list_reel_media_viewer_feed_response_.listreelmediaviewerfeedresponsedonation_amount_config.md)*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:227](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L227)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:227](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L227)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **donation_disabled_message**: *null*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:226](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L226)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:226](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L226)*
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 • **donation_url**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:224](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L224)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:224](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L224)*
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 • **has_viewer_donated**: *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:221](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L221)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:221](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L221)*
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 • **privacy_disclaimer**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:225](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L225)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:225](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L225)*
 
 ___
 
@@ -83,4 +83,4 @@ ___
 
 • **you_donated_message**: *null*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:222](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L222)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:222](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L222)*

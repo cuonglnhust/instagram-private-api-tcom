@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/insights.service.post.response"](../modules/_responses_insights_service_post_response_.md) / [InsightsServicePostResponseOrganic](_responses_insights_service_post_response_.insightsservicepostresponseorganic.md) /
 
@@ -21,7 +21,7 @@
 
 • **status**: *string*
 
-*Defined in [responses/insights.service.post.response.ts:89](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/insights.service.post.response.ts#L89)*
+*Defined in [responses/insights.service.post.response.ts:89](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/insights.service.post.response.ts#L89)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **value**: *number*
 
-*Defined in [responses/insights.service.post.response.ts:88](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/insights.service.post.response.ts#L88)*
+*Defined in [responses/insights.service.post.response.ts:88](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/insights.service.post.response.ts#L88)*

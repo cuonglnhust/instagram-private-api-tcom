@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["types/account.two-factor-login.options"](_types_account_two_factor_login_options_.md) /
 

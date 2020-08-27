@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/reels-media.feed.response"](../modules/_responses_reels_media_feed_response_.md) / [ReelsMediaFeedResponseRootObject](_responses_reels_media_feed_response_.reelsmediafeedresponserootobject.md) /
 
@@ -21,7 +21,7 @@
 
 • **reels**: *[ReelsMediaFeedResponseReels](_responses_reels_media_feed_response_.reelsmediafeedresponsereels.md)*
 
-*Defined in [responses/reels-media.feed.response.ts:2](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/reels-media.feed.response.ts#L2)*
+*Defined in [responses/reels-media.feed.response.ts:2](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/reels-media.feed.response.ts#L2)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **status**: *string*
 
-*Defined in [responses/reels-media.feed.response.ts:3](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/reels-media.feed.response.ts#L3)*
+*Defined in [responses/reels-media.feed.response.ts:3](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/reels-media.feed.response.ts#L3)*

@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/restrict-action.repository.restrict.response"](_responses_restrict_action_repository_restrict_response_.md) /
 

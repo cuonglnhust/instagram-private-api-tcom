@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/news.feed.response"](../modules/_responses_news_feed_response_.md) / [NewsFeedResponseMediaItem](_responses_news_feed_response_.newsfeedresponsemediaitem.md) /
 
@@ -22,7 +22,7 @@
 
 • **comment_threading_enabled**? : *boolean*
 
-*Defined in [responses/news.feed.response.ts:39](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/news.feed.response.ts#L39)*
+*Defined in [responses/news.feed.response.ts:39](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/news.feed.response.ts#L39)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **id**: *string*
 
-*Defined in [responses/news.feed.response.ts:37](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/news.feed.response.ts#L37)*
+*Defined in [responses/news.feed.response.ts:37](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/news.feed.response.ts#L37)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **image**: *string*
 
-*Defined in [responses/news.feed.response.ts:38](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/news.feed.response.ts#L38)*
+*Defined in [responses/news.feed.response.ts:38](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/news.feed.response.ts#L38)*

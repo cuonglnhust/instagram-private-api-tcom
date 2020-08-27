@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["repositories/direct-thread.repository"](../modules/_repositories_direct_thread_repository_.md) / [DirectThreadRepository](_repositories_direct_thread_repository_.directthreadrepository.md) /
 
@@ -43,7 +43,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -59,7 +59,7 @@ Name | Type |
 
 ▸ **addUser**(`threadId`: string | number, `userIds`: string[] | number[]): *`Promise<DirectThreadRepositoryAddUserResponseRootObject>`*
 
-*Defined in [repositories/direct-thread.repository.ts:147](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/direct-thread.repository.ts#L147)*
+*Defined in [repositories/direct-thread.repository.ts:147](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/direct-thread.repository.ts#L147)*
 
 **Parameters:**
 
@@ -76,7 +76,7 @@ ___
 
 ▸ **approve**(`threadId`: string | number): *`Promise<StatusResponse>`*
 
-*Defined in [repositories/direct-thread.repository.ts:14](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/direct-thread.repository.ts#L14)*
+*Defined in [repositories/direct-thread.repository.ts:14](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/direct-thread.repository.ts#L14)*
 
 **Parameters:**
 
@@ -92,7 +92,7 @@ ___
 
 ▸ **approveMultiple**(`threadIds`: string[] | number[]): *`Promise<StatusResponse>`*
 
-*Defined in [repositories/direct-thread.repository.ts:26](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/direct-thread.repository.ts#L26)*
+*Defined in [repositories/direct-thread.repository.ts:26](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/direct-thread.repository.ts#L26)*
 
 **Parameters:**
 
@@ -108,7 +108,7 @@ ___
 
 ▸ **approveParticipantRequests**(`threadId`: string | number, `userIds`: string[]): *`Promise<DirectThreadRepositoryApproveParticipantRequestResponseRootObject>`*
 
-*Defined in [repositories/direct-thread.repository.ts:76](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/direct-thread.repository.ts#L76)*
+*Defined in [repositories/direct-thread.repository.ts:76](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/direct-thread.repository.ts#L76)*
 
 **Parameters:**
 
@@ -125,7 +125,7 @@ ___
 
 ▸ **broadcast**(`options`: [DirectThreadBroadcastOptions](../modules/_types_direct_thread_broadcast_options_.md#directthreadbroadcastoptions)): *`Promise<DirectThreadRepositoryBroadcastResponseRootObject>`*
 
-*Defined in [repositories/direct-thread.repository.ts:204](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/direct-thread.repository.ts#L204)*
+*Defined in [repositories/direct-thread.repository.ts:204](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/direct-thread.repository.ts#L204)*
 
 **Parameters:**
 
@@ -141,7 +141,7 @@ ___
 
 ▸ **decline**(`threadId`: string | number): *`Promise<StatusResponse>`*
 
-*Defined in [repositories/direct-thread.repository.ts:39](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/direct-thread.repository.ts#L39)*
+*Defined in [repositories/direct-thread.repository.ts:39](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/direct-thread.repository.ts#L39)*
 
 **Parameters:**
 
@@ -157,7 +157,7 @@ ___
 
 ▸ **declineAll**(): *`Promise<StatusResponse>`*
 
-*Defined in [repositories/direct-thread.repository.ts:64](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/direct-thread.repository.ts#L64)*
+*Defined in [repositories/direct-thread.repository.ts:64](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/direct-thread.repository.ts#L64)*
 
 **Returns:** *`Promise<StatusResponse>`*
 
@@ -167,7 +167,7 @@ ___
 
 ▸ **declineMultiple**(`threadIds`: string[] | number[]): *`Promise<StatusResponse>`*
 
-*Defined in [repositories/direct-thread.repository.ts:51](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/direct-thread.repository.ts#L51)*
+*Defined in [repositories/direct-thread.repository.ts:51](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/direct-thread.repository.ts#L51)*
 
 **Parameters:**
 
@@ -183,7 +183,7 @@ ___
 
 ▸ **deleteItem**(`threadId`: string | number, `itemId`: string | number): *`Promise<StatusResponse>`*
 
-*Defined in [repositories/direct-thread.repository.ts:232](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/direct-thread.repository.ts#L232)*
+*Defined in [repositories/direct-thread.repository.ts:232](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/direct-thread.repository.ts#L232)*
 
 **Parameters:**
 
@@ -200,7 +200,7 @@ ___
 
 ▸ **getByParticipants**(`recipientUsers`: string[] | number[]): *`Promise<DirectThreadRepositoryGetByParticipantsResponseRootObject>`*
 
-*Defined in [repositories/direct-thread.repository.ts:94](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/direct-thread.repository.ts#L94)*
+*Defined in [repositories/direct-thread.repository.ts:94](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/direct-thread.repository.ts#L94)*
 
 **Parameters:**
 
@@ -216,7 +216,7 @@ ___
 
 ▸ **hide**(`threadId`: string): *`Promise<StatusResponse>`*
 
-*Defined in [repositories/direct-thread.repository.ts:175](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/direct-thread.repository.ts#L175)*
+*Defined in [repositories/direct-thread.repository.ts:175](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/direct-thread.repository.ts#L175)*
 
 **Parameters:**
 
@@ -232,7 +232,7 @@ ___
 
 ▸ **leave**(`threadId`: string): *`Promise<StatusResponse>`*
 
-*Defined in [repositories/direct-thread.repository.ts:163](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/direct-thread.repository.ts#L163)*
+*Defined in [repositories/direct-thread.repository.ts:163](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/direct-thread.repository.ts#L163)*
 
 **Parameters:**
 
@@ -248,7 +248,7 @@ ___
 
 ▸ **markItemSeen**(`threadId`: string, `threadItemId`: string): *`Promise<StatusResponse>`*
 
-*Defined in [repositories/direct-thread.repository.ts:188](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/direct-thread.repository.ts#L188)*
+*Defined in [repositories/direct-thread.repository.ts:188](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/direct-thread.repository.ts#L188)*
 
 **Parameters:**
 
@@ -265,7 +265,7 @@ ___
 
 ▸ **mute**(`threadId`: string | number): *`Promise<StatusResponse>`*
 
-*Defined in [repositories/direct-thread.repository.ts:123](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/direct-thread.repository.ts#L123)*
+*Defined in [repositories/direct-thread.repository.ts:123](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/direct-thread.repository.ts#L123)*
 
 **Parameters:**
 
@@ -281,7 +281,7 @@ ___
 
 ▸ **unmute**(`threadId`: string | number): *`Promise<StatusResponse>`*
 
-*Defined in [repositories/direct-thread.repository.ts:135](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/direct-thread.repository.ts#L135)*
+*Defined in [repositories/direct-thread.repository.ts:135](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/direct-thread.repository.ts#L135)*
 
 **Parameters:**
 
@@ -297,7 +297,7 @@ ___
 
 ▸ **updateTitle**(`threadId`: string | number, `title`: string): *`Promise<DirectThreadRepositoryUpdateTitleResponseRootObject>`*
 
-*Defined in [repositories/direct-thread.repository.ts:107](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/direct-thread.repository.ts#L107)*
+*Defined in [repositories/direct-thread.repository.ts:107](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/direct-thread.repository.ts#L107)*
 
 **Parameters:**
 

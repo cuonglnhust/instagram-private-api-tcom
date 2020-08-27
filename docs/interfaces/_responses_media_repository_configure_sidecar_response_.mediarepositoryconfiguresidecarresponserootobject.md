@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/media.repository.configure-sidecar.response"](../modules/_responses_media_repository_configure_sidecar_response_.md) / [MediaRepositoryConfigureSidecarResponseRootObject](_responses_media_repository_configure_sidecar_response_.mediarepositoryconfiguresidecarresponserootobject.md) /
 
@@ -22,7 +22,7 @@
 
 • **client_sidecar_id**: *string*
 
-*Defined in [responses/media.repository.configure-sidecar.response.ts:2](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/media.repository.configure-sidecar.response.ts#L2)*
+*Defined in [responses/media.repository.configure-sidecar.response.ts:2](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/media.repository.configure-sidecar.response.ts#L2)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **media**: *[MediaRepositoryConfigureSidecarResponseMedia](_responses_media_repository_configure_sidecar_response_.mediarepositoryconfiguresidecarresponsemedia.md)*
 
-*Defined in [responses/media.repository.configure-sidecar.response.ts:3](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/media.repository.configure-sidecar.response.ts#L3)*
+*Defined in [responses/media.repository.configure-sidecar.response.ts:3](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/media.repository.configure-sidecar.response.ts#L3)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **status**: *string*
 
-*Defined in [responses/media.repository.configure-sidecar.response.ts:4](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/media.repository.configure-sidecar.response.ts#L4)*
+*Defined in [responses/media.repository.configure-sidecar.response.ts:4](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/media.repository.configure-sidecar.response.ts#L4)*

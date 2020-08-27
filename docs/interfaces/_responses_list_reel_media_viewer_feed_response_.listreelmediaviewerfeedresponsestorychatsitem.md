@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/list-reel-media-viewer.feed.response"](../modules/_responses_list_reel_media_viewer_feed_response_.md) / [ListReelMediaViewerFeedResponseStoryChatsItem](_responses_list_reel_media_viewer_feed_response_.listreelmediaviewerfeedresponsestorychatsitem.md) /
 
@@ -29,7 +29,7 @@
 
 • **chat_sticker**: *[ListReelMediaViewerFeedResponseChat_sticker](_responses_list_reel_media_viewer_feed_response_.listreelmediaviewerfeedresponsechat_sticker.md)*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:266](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L266)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:266](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L266)*
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 • **height**: *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:261](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L261)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:261](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L261)*
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 • **is_hidden**: *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:264](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L264)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:264](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L264)*
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 • **is_pinned**: *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:263](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L263)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:263](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L263)*
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 • **is_sticker**: *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:265](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L265)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:265](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L265)*
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 • **rotation**: *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:262](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L262)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:262](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L262)*
 
 ___
 
@@ -77,7 +77,7 @@ ___
 
 • **width**: *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:260](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L260)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:260](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L260)*
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 • **x**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:257](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L257)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:257](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L257)*
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 • **y**: *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:258](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L258)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:258](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L258)*
 
 ___
 
@@ -101,4 +101,4 @@ ___
 
 • **z**: *number*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:259](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L259)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:259](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L259)*

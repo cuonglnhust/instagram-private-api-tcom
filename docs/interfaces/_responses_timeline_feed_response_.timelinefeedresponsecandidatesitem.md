@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/timeline.feed.response"](../modules/_responses_timeline_feed_response_.md) / [TimelineFeedResponseCandidatesItem](_responses_timeline_feed_response_.timelinefeedresponsecandidatesitem.md) /
 
@@ -22,7 +22,7 @@
 
 • **height**: *number*
 
-*Defined in [responses/timeline.feed.response.ts:104](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/timeline.feed.response.ts#L104)*
+*Defined in [responses/timeline.feed.response.ts:104](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/timeline.feed.response.ts#L104)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **url**: *string*
 
-*Defined in [responses/timeline.feed.response.ts:105](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/timeline.feed.response.ts#L105)*
+*Defined in [responses/timeline.feed.response.ts:105](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/timeline.feed.response.ts#L105)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **width**: *number*
 
-*Defined in [responses/timeline.feed.response.ts:103](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/timeline.feed.response.ts#L103)*
+*Defined in [responses/timeline.feed.response.ts:103](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/timeline.feed.response.ts#L103)*

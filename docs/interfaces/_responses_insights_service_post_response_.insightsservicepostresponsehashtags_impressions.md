@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/insights.service.post.response"](../modules/_responses_insights_service_post_response_.md) / [InsightsServicePostResponseHashtags_impressions](_responses_insights_service_post_response_.insightsservicepostresponsehashtags_impressions.md) /
 
@@ -21,7 +21,7 @@
 
 • **hashtags**: *[InsightsServicePostResponseHashtags](_responses_insights_service_post_response_.insightsservicepostresponsehashtags.md)*
 
-*Defined in [responses/insights.service.post.response.ts:85](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/insights.service.post.response.ts#L85)*
+*Defined in [responses/insights.service.post.response.ts:85](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/insights.service.post.response.ts#L85)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **organic**: *[InsightsServicePostResponseOrganic](_responses_insights_service_post_response_.insightsservicepostresponseorganic.md)*
 
-*Defined in [responses/insights.service.post.response.ts:84](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/insights.service.post.response.ts#L84)*
+*Defined in [responses/insights.service.post.response.ts:84](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/insights.service.post.response.ts#L84)*

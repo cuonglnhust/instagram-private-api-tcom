@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["types/media.configure-story.options"](../modules/_types_media_configure_story_options_.md) / [MediaConfigureStoryBaseOptions](_types_media_configure_story_options_.mediaconfigurestorybaseoptions.md) /
 
@@ -54,7 +54,7 @@
 
 • **allow_multi_configures**? : *"0" | "1"*
 
-*Defined in [types/media.configure-story.options.ts:11](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L11)*
+*Defined in [types/media.configure-story.options.ts:11](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L11)*
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 • **attached_media**? : *[[StoryAttachedMedia](_types_media_configure_story_options_.storyattachedmedia.md)] | string*
 
-*Defined in [types/media.configure-story.options.ts:48](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L48)*
+*Defined in [types/media.configure-story.options.ts:48](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L48)*
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 • **audience**? : *"besties"*
 
-*Defined in [types/media.configure-story.options.ts:7](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L7)*
+*Defined in [types/media.configure-story.options.ts:7](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L7)*
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 • **camera_position**? : *string*
 
-*Defined in [types/media.configure-story.options.ts:10](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L10)*
+*Defined in [types/media.configure-story.options.ts:10](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L10)*
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 • **caption**? : *string*
 
-*Defined in [types/media.configure-story.options.ts:20](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L20)*
+*Defined in [types/media.configure-story.options.ts:20](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L20)*
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 • **client_context**? : *string*
 
-*Defined in [types/media.configure-story.options.ts:16](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L16)*
+*Defined in [types/media.configure-story.options.ts:16](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L16)*
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 • **client_shared_at**? : *string*
 
-*Defined in [types/media.configure-story.options.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L6)*
+*Defined in [types/media.configure-story.options.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L6)*
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 • **configure_mode**: *"1" | "2"*
 
-*Defined in [types/media.configure-story.options.ts:9](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L9)*
+*Defined in [types/media.configure-story.options.ts:9](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L9)*
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 • **geotag_enabled**? : *"1" | "0"*
 
-*Defined in [types/media.configure-story.options.ts:29](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L29)*
+*Defined in [types/media.configure-story.options.ts:29](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L29)*
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 • **internal_features**? : *"polling_sticker"*
 
-*Defined in [types/media.configure-story.options.ts:39](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L39)*
+*Defined in [types/media.configure-story.options.ts:39](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L39)*
 
 ___
 
@@ -134,7 +134,7 @@ ___
 
 • **mas_opt_in**? : *"NOT_PROMPTED"*
 
-*Defined in [types/media.configure-story.options.ts:21](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L21)*
+*Defined in [types/media.configure-story.options.ts:21](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L21)*
 
 ___
 
@@ -142,7 +142,7 @@ ___
 
 • **media_latitude**? : *string*
 
-*Defined in [types/media.configure-story.options.ts:32](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L32)*
+*Defined in [types/media.configure-story.options.ts:32](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L32)*
 
 ___
 
@@ -150,7 +150,7 @@ ___
 
 • **media_longitude**? : *string*
 
-*Defined in [types/media.configure-story.options.ts:33](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L33)*
+*Defined in [types/media.configure-story.options.ts:33](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L33)*
 
 ___
 
@@ -158,7 +158,7 @@ ___
 
 • **posting_latitude**? : *string*
 
-*Defined in [types/media.configure-story.options.ts:30](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L30)*
+*Defined in [types/media.configure-story.options.ts:30](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L30)*
 
 ___
 
@@ -166,7 +166,7 @@ ___
 
 • **posting_longitude**? : *string*
 
-*Defined in [types/media.configure-story.options.ts:31](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L31)*
+*Defined in [types/media.configure-story.options.ts:31](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L31)*
 
 ___
 
@@ -174,7 +174,7 @@ ___
 
 • **recipient_users**? : *string[] | string*
 
-*Defined in [types/media.configure-story.options.ts:15](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L15)*
+*Defined in [types/media.configure-story.options.ts:15](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L15)*
 
 ___
 
@@ -182,7 +182,7 @@ ___
 
 • **reel_mentions**? : *[StoryMention](_types_media_configure_story_options_.storymention.md)[] | string*
 
-*Defined in [types/media.configure-story.options.ts:35](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L35)*
+*Defined in [types/media.configure-story.options.ts:35](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L35)*
 
 ___
 
@@ -190,7 +190,7 @@ ___
 
 • **reply_type**? : *"story" | string*
 
-*Defined in [types/media.configure-story.options.ts:18](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L18)*
+*Defined in [types/media.configure-story.options.ts:18](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L18)*
 
 ___
 
@@ -198,7 +198,7 @@ ___
 
 • **story_chats**? : *[[StoryChat](_types_media_configure_story_options_.storychat.md)] | string*
 
-*Defined in [types/media.configure-story.options.ts:50](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L50)*
+*Defined in [types/media.configure-story.options.ts:50](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L50)*
 
 ___
 
@@ -206,7 +206,7 @@ ___
 
 • **story_countdowns**? : *[[StoryCountdown](_types_media_configure_story_options_.storycountdown.md)] | string*
 
-*Defined in [types/media.configure-story.options.ts:46](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L46)*
+*Defined in [types/media.configure-story.options.ts:46](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L46)*
 
 ___
 
@@ -214,7 +214,7 @@ ___
 
 • **story_cta**? : *[[StoryCta](_types_media_configure_story_options_.storycta.md)] | string*
 
-*Defined in [types/media.configure-story.options.ts:55](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L55)*
+*Defined in [types/media.configure-story.options.ts:55](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L55)*
 
 ___
 
@@ -222,7 +222,7 @@ ___
 
 • **story_hashtags**? : *[StoryHashtag](_types_media_configure_story_options_.storyhashtag.md)[] | string*
 
-*Defined in [types/media.configure-story.options.ts:26](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L26)*
+*Defined in [types/media.configure-story.options.ts:26](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L26)*
 
 ___
 
@@ -230,7 +230,7 @@ ___
 
 • **story_locations**? : *[[StoryLocation](_types_media_configure_story_options_.storylocation.md)] | string*
 
-*Defined in [types/media.configure-story.options.ts:28](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L28)*
+*Defined in [types/media.configure-story.options.ts:28](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L28)*
 
 ___
 
@@ -238,7 +238,7 @@ ___
 
 • **story_media_creation_date**? : *string*
 
-*Defined in [types/media.configure-story.options.ts:5](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L5)*
+*Defined in [types/media.configure-story.options.ts:5](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L5)*
 
 ___
 
@@ -246,7 +246,7 @@ ___
 
 • **story_polls**? : *[[StoryPoll](_types_media_configure_story_options_.storypoll.md)] | string*
 
-*Defined in [types/media.configure-story.options.ts:38](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L38)*
+*Defined in [types/media.configure-story.options.ts:38](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L38)*
 
 ___
 
@@ -254,7 +254,7 @@ ___
 
 • **story_questions**? : *[[StoryQuestion](_types_media_configure_story_options_.storyquestion.md)] | string*
 
-*Defined in [types/media.configure-story.options.ts:44](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L44)*
+*Defined in [types/media.configure-story.options.ts:44](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L44)*
 
 ___
 
@@ -262,7 +262,7 @@ ___
 
 • **story_quizs**? : *[[StoryQuiz](_types_media_configure_story_options_.storyquiz.md)] | string*
 
-*Defined in [types/media.configure-story.options.ts:52](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L52)*
+*Defined in [types/media.configure-story.options.ts:52](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L52)*
 
 ___
 
@@ -270,7 +270,7 @@ ___
 
 • **story_sliders**? : *[[StorySlider](_types_media_configure_story_options_.storyslider.md)] | string*
 
-*Defined in [types/media.configure-story.options.ts:42](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L42)*
+*Defined in [types/media.configure-story.options.ts:42](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L42)*
 
 ___
 
@@ -278,7 +278,7 @@ ___
 
 • **story_sticker_ids**? : *string | "question_sticker_ma" | "countdown_sticker_time" | "chat_sticker_id"*
 
-*Defined in [types/media.configure-story.options.ts:23](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L23)*
+*Defined in [types/media.configure-story.options.ts:23](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L23)*
 
 ___
 
@@ -286,7 +286,7 @@ ___
 
 • **thread_ids**? : *string[] | string*
 
-*Defined in [types/media.configure-story.options.ts:14](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L14)*
+*Defined in [types/media.configure-story.options.ts:14](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L14)*
 
 ___
 
@@ -294,4 +294,4 @@ ___
 
 • **view_mode**? : *"replayable" | "once" | string*
 
-*Defined in [types/media.configure-story.options.ts:17](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L17)*
+*Defined in [types/media.configure-story.options.ts:17](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L17)*

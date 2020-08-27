@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/list-reel-media-viewer.feed.response"](../modules/_responses_list_reel_media_viewer_feed_response_.md) / [ListReelMediaViewerFeedResponseCreative_config](_responses_list_reel_media_viewer_feed_response_.listreelmediaviewerfeedresponsecreative_config.md) /
 
@@ -22,7 +22,7 @@
 
 • **camera_facing**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:151](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L151)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:151](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L151)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **capture_type**: *string*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:150](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L150)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:150](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L150)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **should_render_try_it_on**: *boolean*
 
-*Defined in [responses/list-reel-media-viewer.feed.response.ts:152](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L152)*
+*Defined in [responses/list-reel-media-viewer.feed.response.ts:152](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/list-reel-media-viewer.feed.response.ts#L152)*

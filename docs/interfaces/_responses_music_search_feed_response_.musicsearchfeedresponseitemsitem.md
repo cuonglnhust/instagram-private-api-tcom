@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/music-search.feed.response"](../modules/_responses_music_search_feed_response_.md) / [MusicSearchFeedResponseItemsItem](_responses_music_search_feed_response_.musicsearchfeedresponseitemsitem.md) /
 
@@ -20,4 +20,4 @@
 
 • **track**: *[MusicSearchFeedResponseTrack](_responses_music_search_feed_response_.musicsearchfeedresponsetrack.md)*
 
-*Defined in [responses/music-search.feed.response.ts:8](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/music-search.feed.response.ts#L8)*
+*Defined in [responses/music-search.feed.response.ts:8](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/music-search.feed.response.ts#L8)*

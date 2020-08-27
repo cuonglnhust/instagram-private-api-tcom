@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["entities/direct-thread.entity"](../modules/_entities_direct_thread_entity_.md) / [DirectThreadEntity](_entities_direct_thread_entity_.directthreadentity.md) /
 
@@ -48,7 +48,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -64,7 +64,7 @@ Name | Type |
 
 • **threadId**: *string* =  null
 
-*Defined in [entities/direct-thread.entity.ts:14](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L14)*
+*Defined in [entities/direct-thread.entity.ts:14](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L14)*
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 • **userIds**: *string[]* =  null
 
-*Defined in [entities/direct-thread.entity.ts:15](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L15)*
+*Defined in [entities/direct-thread.entity.ts:15](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L15)*
 
 ## Methods
 
@@ -80,7 +80,7 @@ ___
 
 ▸ **addUser**(`userIds`: string[] | number[]): *`Promise<DirectThreadRepositoryAddUserResponseRootObject>`*
 
-*Defined in [entities/direct-thread.entity.ts:175](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L175)*
+*Defined in [entities/direct-thread.entity.ts:175](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L175)*
 
 **Parameters:**
 
@@ -96,7 +96,7 @@ ___
 
 ▸ **broadcastLink**(`link_text`: string, `link_urls`: string[]): *`Promise<DirectThreadRepositoryBroadcastResponsePayload>`*
 
-*Defined in [entities/direct-thread.entity.ts:84](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L84)*
+*Defined in [entities/direct-thread.entity.ts:84](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L84)*
 
 **Parameters:**
 
@@ -113,7 +113,7 @@ ___
 
 ▸ **broadcastPhoto**(`options`: [DirectThreadBroadcastPhotoOptions](../interfaces/_types_direct_thread_broadcast_media_options_.directthreadbroadcastphotooptions.md)): *`Promise<DirectThreadRepositoryBroadcastResponsePayload>`*
 
-*Defined in [entities/direct-thread.entity.ts:94](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L94)*
+*Defined in [entities/direct-thread.entity.ts:94](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L94)*
 
 **Parameters:**
 
@@ -129,7 +129,7 @@ ___
 
 ▸ **broadcastProfile**(`id`: number | string): *`Promise<DirectThreadRepositoryBroadcastResponsePayload>`*
 
-*Defined in [entities/direct-thread.entity.ts:75](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L75)*
+*Defined in [entities/direct-thread.entity.ts:75](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L75)*
 
 **Parameters:**
 
@@ -145,7 +145,7 @@ ___
 
 ▸ **broadcastReel**(`options`: [DirectThreadBroadcastReelOptions](../interfaces/_types_direct_thread_broadcast_reel_options_.directthreadbroadcastreeloptions.md)): *`Promise<DirectThreadRepositoryBroadcastResponsePayload>`*
 
-*Defined in [entities/direct-thread.entity.ts:41](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L41)*
+*Defined in [entities/direct-thread.entity.ts:41](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L41)*
 
 This is used when replying to a story (swiping up) and it's creator
 
@@ -163,7 +163,7 @@ ___
 
 ▸ **broadcastStory**(`input`: `Buffer` | [DirectThreadBroadcastStoryOptions](../interfaces/_types_direct_thread_broadcast_media_options_.directthreadbroadcaststoryoptions.md)): *`Promise<any>`*
 
-*Defined in [entities/direct-thread.entity.ts:133](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L133)*
+*Defined in [entities/direct-thread.entity.ts:133](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L133)*
 
 Uploads a story to the thread
 The story is either destroyable (view 'once') or 'replayable'
@@ -182,7 +182,7 @@ ___
 
 ▸ **broadcastText**(`text`: string): *`Promise<DirectThreadRepositoryBroadcastResponsePayload>`*
 
-*Defined in [entities/direct-thread.entity.ts:24](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L24)*
+*Defined in [entities/direct-thread.entity.ts:24](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L24)*
 
 **Parameters:**
 
@@ -198,7 +198,7 @@ ___
 
 ▸ **broadcastUserStory**(`options`: [DirectThreadBroadcastReelOptions](../interfaces/_types_direct_thread_broadcast_reel_options_.directthreadbroadcastreeloptions.md)): *`Promise<DirectThreadRepositoryBroadcastResponsePayload>`*
 
-*Defined in [entities/direct-thread.entity.ts:60](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L60)*
+*Defined in [entities/direct-thread.entity.ts:60](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L60)*
 
 This is used when sharing a story (app: plane/share button) to a thread
 
@@ -216,7 +216,7 @@ ___
 
 ▸ **broadcastVideo**(`options`: [DirectThreadBroadcastVideoOptions](../interfaces/_types_direct_thread_broadcast_media_options_.directthreadbroadcastvideooptions.md)): *`Promise<DirectThreadRepositoryBroadcastResponsePayload>`*
 
-*Defined in [entities/direct-thread.entity.ts:108](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L108)*
+*Defined in [entities/direct-thread.entity.ts:108](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L108)*
 
 **Parameters:**
 
@@ -232,7 +232,7 @@ ___
 
 ▸ **deleteItem**(`itemId`: string | number): *`Promise<StatusResponse>`*
 
-*Defined in [entities/direct-thread.entity.ts:17](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L17)*
+*Defined in [entities/direct-thread.entity.ts:17](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L17)*
 
 **Parameters:**
 
@@ -248,7 +248,7 @@ ___
 
 ▸ **hide**(): *`Promise<StatusResponse>`*
 
-*Defined in [entities/direct-thread.entity.ts:167](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L167)*
+*Defined in [entities/direct-thread.entity.ts:167](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L167)*
 
 **Returns:** *`Promise<StatusResponse>`*
 
@@ -258,7 +258,7 @@ ___
 
 ▸ **leave**(): *`Promise<StatusResponse>`*
 
-*Defined in [entities/direct-thread.entity.ts:171](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L171)*
+*Defined in [entities/direct-thread.entity.ts:171](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L171)*
 
 **Returns:** *`Promise<StatusResponse>`*
 
@@ -268,7 +268,7 @@ ___
 
 ▸ **markItemSeen**(`threadItemId`: string): *`Promise<StatusResponse>`*
 
-*Defined in [entities/direct-thread.entity.ts:179](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L179)*
+*Defined in [entities/direct-thread.entity.ts:179](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L179)*
 
 **Parameters:**
 
@@ -284,7 +284,7 @@ ___
 
 ▸ **mute**(): *`Promise<StatusResponse>`*
 
-*Defined in [entities/direct-thread.entity.ts:159](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L159)*
+*Defined in [entities/direct-thread.entity.ts:159](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L159)*
 
 **Returns:** *`Promise<StatusResponse>`*
 
@@ -294,7 +294,7 @@ ___
 
 ▸ **unmute**(): *`Promise<StatusResponse>`*
 
-*Defined in [entities/direct-thread.entity.ts:163](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L163)*
+*Defined in [entities/direct-thread.entity.ts:163](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L163)*
 
 **Returns:** *`Promise<StatusResponse>`*
 
@@ -304,7 +304,7 @@ ___
 
 ▸ **updateTitle**(`title`: string): *`Promise<DirectThreadRepositoryUpdateTitleResponseRootObject>`*
 
-*Defined in [entities/direct-thread.entity.ts:155](https://github.com/dilame/instagram-private-api/blob/3e16058/src/entities/direct-thread.entity.ts#L155)*
+*Defined in [entities/direct-thread.entity.ts:155](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/entities/direct-thread.entity.ts#L155)*
 
 **Parameters:**
 

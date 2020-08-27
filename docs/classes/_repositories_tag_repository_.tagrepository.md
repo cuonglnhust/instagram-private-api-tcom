@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["repositories/tag.repository"](../modules/_repositories_tag_repository_.md) / [TagRepository](_repositories_tag_repository_.tagrepository.md) /
 
@@ -29,7 +29,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -45,7 +45,7 @@ Name | Type |
 
 ▸ **search**(`q`: string): *`Promise<TagRepositorySearchResponseRootObject>`*
 
-*Defined in [repositories/tag.repository.ts:5](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/tag.repository.ts#L5)*
+*Defined in [repositories/tag.repository.ts:5](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/tag.repository.ts#L5)*
 
 **Parameters:**
 
@@ -61,7 +61,7 @@ ___
 
 ▸ **section**(`q`: string, `tab`: string): *`Promise<TagRepositorySearchResponseRootObject>`*
 
-*Defined in [repositories/tag.repository.ts:17](https://github.com/dilame/instagram-private-api/blob/3e16058/src/repositories/tag.repository.ts#L17)*
+*Defined in [repositories/tag.repository.ts:17](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/repositories/tag.repository.ts#L17)*
 
 **Parameters:**
 

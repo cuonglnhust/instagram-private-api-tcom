@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/status.response"](../modules/_responses_status_response_.md) / [StatusResponse](_responses_status_response_.statusresponse.md) /
 
@@ -24,4 +24,4 @@
 
 • **status**: *string*
 
-*Defined in [responses/status.response.ts:2](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/status.response.ts#L2)*
+*Defined in [responses/status.response.ts:2](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/status.response.ts#L2)*

@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["core/entity.factory"](../modules/_core_entity_factory_.md) / [EntityFactory](_core_entity_factory_.entityfactory.md) /
 
@@ -29,7 +29,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -45,7 +45,7 @@ Name | Type |
 
 ▸ **directThread**(`id`: string | string[]): *[DirectThreadEntity](_entities_direct_thread_entity_.directthreadentity.md)*
 
-*Defined in [core/entity.factory.ts:5](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/entity.factory.ts#L5)*
+*Defined in [core/entity.factory.ts:5](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/entity.factory.ts#L5)*
 
 **Parameters:**
 
@@ -61,7 +61,7 @@ ___
 
 ▸ **profile**(`pk`: string): *[ProfileEntity](_entities_profile_entity_.profileentity.md)*
 
-*Defined in [core/entity.factory.ts:15](https://github.com/dilame/instagram-private-api/blob/3e16058/src/core/entity.factory.ts#L15)*
+*Defined in [core/entity.factory.ts:15](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/master/src/core/entity.factory.ts#L15)*
 
 **Parameters:**
 

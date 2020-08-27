@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/upload.repository.video.response"](../modules/_responses_upload_repository_video_response_.md) / [UploadRepositoryVideoResponseXsharing_nonces](_responses_upload_repository_video_response_.uploadrepositoryvideoresponsexsharing_nonces.md) /
 

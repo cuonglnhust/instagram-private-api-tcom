@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/news.repository.inbox.response"](../modules/_responses_news_repository_inbox_response_.md) / [NewsRepositoryInboxResponseLinksItem](_responses_news_repository_inbox_response_.newsrepositoryinboxresponselinksitem.md) /
 
@@ -23,7 +23,7 @@
 
 • **end**: *number*
 
-*Defined in [responses/news.repository.inbox.response.ts:89](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/news.repository.inbox.response.ts#L89)*
+*Defined in [responses/news.repository.inbox.response.ts:89](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/news.repository.inbox.response.ts#L89)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **id**: *string | number*
 
-*Defined in [responses/news.repository.inbox.response.ts:91](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/news.repository.inbox.response.ts#L91)*
+*Defined in [responses/news.repository.inbox.response.ts:91](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/news.repository.inbox.response.ts#L91)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **start**: *number*
 
-*Defined in [responses/news.repository.inbox.response.ts:88](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/news.repository.inbox.response.ts#L88)*
+*Defined in [responses/news.repository.inbox.response.ts:88](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/news.repository.inbox.response.ts#L88)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **type**: *string*
 
-*Defined in [responses/news.repository.inbox.response.ts:90](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/news.repository.inbox.response.ts#L90)*
+*Defined in [responses/news.repository.inbox.response.ts:90](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/news.repository.inbox.response.ts#L90)*

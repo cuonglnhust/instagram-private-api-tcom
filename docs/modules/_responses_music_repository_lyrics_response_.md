@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/music.repository.lyrics.response"](_responses_music_repository_lyrics_response_.md) /
 

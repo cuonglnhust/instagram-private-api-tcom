@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/direct.repository.get-presence.response"](../modules/_responses_direct_repository_get_presence_response_.md) / [DirectRepositoryGetPresenceResponseRootObject](_responses_direct_repository_get_presence_response_.directrepositorygetpresenceresponserootobject.md) /
 
@@ -21,7 +21,7 @@
 
 • **status**: *string*
 
-*Defined in [responses/direct.repository.get-presence.response.ts:11](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/direct.repository.get-presence.response.ts#L11)*
+*Defined in [responses/direct.repository.get-presence.response.ts:11](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/direct.repository.get-presence.response.ts#L11)*
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 • **user_presence**: *any*
 
-*Defined in [responses/direct.repository.get-presence.response.ts:10](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/direct.repository.get-presence.response.ts#L10)*
+*Defined in [responses/direct.repository.get-presence.response.ts:10](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/direct.repository.get-presence.response.ts#L10)*
 
 user_presence: {
   user_id: {

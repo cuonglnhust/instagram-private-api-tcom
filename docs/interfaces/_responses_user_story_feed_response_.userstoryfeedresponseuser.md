@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/user-story.feed.response"](../modules/_responses_user_story_feed_response_.md) / [UserStoryFeedResponseUser](_responses_user_story_feed_response_.userstoryfeedresponseuser.md) /
 
@@ -30,7 +30,7 @@
 
 • **friendship_status**? : *[UserStoryFeedResponseFriendship_status](_responses_user_story_feed_response_.userstoryfeedresponsefriendship_status.md)*
 
-*Defined in [responses/user-story.feed.response.ts:28](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L28)*
+*Defined in [responses/user-story.feed.response.ts:28](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L28)*
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 • **full_name**: *string*
 
-*Defined in [responses/user-story.feed.response.ts:24](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L24)*
+*Defined in [responses/user-story.feed.response.ts:24](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L24)*
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 • **has_anonymous_profile_picture**? : *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:30](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L30)*
+*Defined in [responses/user-story.feed.response.ts:30](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L30)*
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 • **is_favorite**? : *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:32](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L32)*
+*Defined in [responses/user-story.feed.response.ts:32](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L32)*
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 • **is_private**: *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:25](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L25)*
+*Defined in [responses/user-story.feed.response.ts:25](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L25)*
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 • **is_unpublished**? : *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:31](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L31)*
+*Defined in [responses/user-story.feed.response.ts:31](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L31)*
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 • **is_verified**: *boolean*
 
-*Defined in [responses/user-story.feed.response.ts:29](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L29)*
+*Defined in [responses/user-story.feed.response.ts:29](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L29)*
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 • **pk**: *number*
 
-*Defined in [responses/user-story.feed.response.ts:22](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L22)*
+*Defined in [responses/user-story.feed.response.ts:22](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L22)*
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 • **profile_pic_id**: *string*
 
-*Defined in [responses/user-story.feed.response.ts:27](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L27)*
+*Defined in [responses/user-story.feed.response.ts:27](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L27)*
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 • **profile_pic_url**: *string*
 
-*Defined in [responses/user-story.feed.response.ts:26](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L26)*
+*Defined in [responses/user-story.feed.response.ts:26](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L26)*
 
 ___
 
@@ -110,4 +110,4 @@ ___
 
 • **username**: *string*
 
-*Defined in [responses/user-story.feed.response.ts:23](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/user-story.feed.response.ts#L23)*
+*Defined in [responses/user-story.feed.response.ts:23](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/user-story.feed.response.ts#L23)*

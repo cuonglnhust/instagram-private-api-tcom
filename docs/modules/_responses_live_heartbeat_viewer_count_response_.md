@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/live.heartbeat-viewer-count.response"](_responses_live_heartbeat_viewer_count_response_.md) /
 

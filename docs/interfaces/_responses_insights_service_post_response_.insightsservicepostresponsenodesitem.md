@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/insights.service.post.response"](../modules/_responses_insights_service_post_response_.md) / [InsightsServicePostResponseNodesItem](_responses_insights_service_post_response_.insightsservicepostresponsenodesitem.md) /
 
@@ -22,7 +22,7 @@
 
 • **__typename**: *string*
 
-*Defined in [responses/insights.service.post.response.ts:54](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/insights.service.post.response.ts#L54)*
+*Defined in [responses/insights.service.post.response.ts:54](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/insights.service.post.response.ts#L54)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **name**? : *string*
 
-*Defined in [responses/insights.service.post.response.ts:56](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/insights.service.post.response.ts#L56)*
+*Defined in [responses/insights.service.post.response.ts:56](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/insights.service.post.response.ts#L56)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **value**: *number*
 
-*Defined in [responses/insights.service.post.response.ts:55](https://github.com/dilame/instagram-private-api/blob/3e16058/src/responses/insights.service.post.response.ts#L55)*
+*Defined in [responses/insights.service.post.response.ts:55](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/responses/insights.service.post.response.ts#L55)*

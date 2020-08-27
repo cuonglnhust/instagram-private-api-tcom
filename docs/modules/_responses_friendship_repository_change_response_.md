@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/friendship.repository.change.response"](_responses_friendship_repository_change_response_.md) /
 

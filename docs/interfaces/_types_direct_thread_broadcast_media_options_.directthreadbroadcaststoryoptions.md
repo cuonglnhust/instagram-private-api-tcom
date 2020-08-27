@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["types/direct-thread.broadcast-media.options"](../modules/_types_direct_thread_broadcast_media_options_.md) / [DirectThreadBroadcastStoryOptions](_types_direct_thread_broadcast_media_options_.directthreadbroadcaststoryoptions.md) /
 
@@ -22,7 +22,7 @@
 
 • **file**: *`Buffer`*
 
-*Defined in [types/direct-thread.broadcast-media.options.ts:14](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/direct-thread.broadcast-media.options.ts#L14)*
+*Defined in [types/direct-thread.broadcast-media.options.ts:14](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/direct-thread.broadcast-media.options.ts#L14)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **replyType**? : *"story" | string*
 
-*Defined in [types/direct-thread.broadcast-media.options.ts:16](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/direct-thread.broadcast-media.options.ts#L16)*
+*Defined in [types/direct-thread.broadcast-media.options.ts:16](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/direct-thread.broadcast-media.options.ts#L16)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **viewMode**? : *"replayable" | "once" | string*
 
-*Defined in [types/direct-thread.broadcast-media.options.ts:15](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/direct-thread.broadcast-media.options.ts#L15)*
+*Defined in [types/direct-thread.broadcast-media.options.ts:15](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/direct-thread.broadcast-media.options.ts#L15)*

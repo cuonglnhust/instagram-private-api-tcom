@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["responses/direct.repository.get-presence.response"](_responses_direct_repository_get_presence_response_.md) /
 

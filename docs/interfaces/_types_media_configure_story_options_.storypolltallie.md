@@ -1,4 +1,4 @@
-> **[instagram-private-api](../README.md)**
+> **[instagram-private-api-tcom](../README.md)**
 
 [Globals](../README.md) / ["types/media.configure-story.options"](../modules/_types_media_configure_story_options_.md) / [StoryPollTallie](_types_media_configure_story_options_.storypolltallie.md) /
 
@@ -22,7 +22,7 @@
 
 • **count**: *`0`*
 
-*Defined in [types/media.configure-story.options.ts:139](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L139)*
+*Defined in [types/media.configure-story.options.ts:139](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L139)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **font_size**: *number*
 
-*Defined in [types/media.configure-story.options.ts:141](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L141)*
+*Defined in [types/media.configure-story.options.ts:141](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L141)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **text**: *string*
 
-*Defined in [types/media.configure-story.options.ts:138](https://github.com/dilame/instagram-private-api/blob/3e16058/src/types/media.configure-story.options.ts#L138)*
+*Defined in [types/media.configure-story.options.ts:138](https://github.com/cuonglnhust/instagram-private-api-tcom/blob/3e16058/src/types/media.configure-story.options.ts#L138)*
